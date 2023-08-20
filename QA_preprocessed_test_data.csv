@@ -1,0 +1,272 @@
+topic,question,context,answer
+Data Science,what is data science what is the definition of data science explain what data science is,"what is data science
+todays businesses are awash in data with more streaming in every day  simply having the data however doesnt guaranty that anything useful can be extracted from it  thats where data science comes in  data science is the practice of leveraging a unique set of skills and tools to help businesses derive value from their data
+
+why is data science important
+answers to the most important questions facing a business often lie within its own data  data science enables businesses to mine that data for drivers of past and future performance opportunities for new revenue methods to increase efficiency ways to improve customer experience and a host of other critical business insights in short data science provides an unbiased examination of the past while pointing the way to the future
+
+courseware
+software
+resources
+opends4all
+opends4all is a project created to accelerate the creation of data science curriculum at academic institutions
+
+getting started with enterprise data science
+this course provides a basic understanding of the foundations of data science including data science team roles data analysis tools and realworld use cases
+
+constraint programming with ilog cp optimizer
+fundamentals of constraint programming cp cp is demonstrated through the use of ilog cp optimizer via ilog oplcplexilog analyst studio a complete integrated 
+
+overview of ibm cognos analytics
+this course provides participants with a high level overview of the ibm cognos analytics suite of products and their underlying architecture they will examine each component as it relates to an analytics solution
+
+ibm planning analytics  design  develop models in workspace
+this course is designed to teach modelers how to build a complete model in ibm planning analytics through a series of lectures and handson exercises students will learn how to set up dimensions 
+
+view all
+important skills when working with data science
+curiosity creativity and critical thinking are all hallmarks of a successful data scientist and until recently getting the most out of data required a working knowledge of sql or statistical programming languages such as r or python however modern data science tools have opened the door to the business user or citizen data scientist as draganddrop visual data modeling has made nocode data science a reality
+explore how people processes and technology interact in a data science project lifecycle tackling realworld industry challenges               why study data science
+data science is a multidisciplinary approach to extracting actionable insights from the large and everincreasing volumes of data collected and created by todays organizations data science encompasses preparing data for analysis and processing performing advanced data analysis and presenting the results to reveal patterns and enable stakeholders to draw informed conclusions
+
+data preparation can involve cleansing aggregating and manipulating it to be ready for specific types of processing analysis requires the development and use of algorithms analytics and ai models its driven by software that combs through data to find patterns within to transform these patterns into predictions that support business decisionmaking the accuracy of these predictions must be validated through scientifically designed tests and experiments and the results should be shared through the skillful use of data visualization tools that make it possible for anyone to see the patterns and understand trends
+
+as a result data scientists as data science practitioners are called require computer science and pure science skills beyond those of a typical data analyst a data scientist must be able to do the following
+
+apply mathematics statistics and the scientific method
+use a wide range of tools and techniques for evaluating and preparing dataeverything from sql to data mining to data integration methods
+extract insights from data using predictive analytics and artificial intelligence ai including machine learning and deep learning models
+write applications that automate data processing and calculations
+telland illustratestories that clearly convey the meaning of results to decisionmakers and stakeholders at every level of technical knowledge and understanding
+explain how these results can be used to solve business problems
+this combination of skills is rare and its no surprise that data scientists are currently in high demand
+data science impact in the job market
+market insights
+in the 2018 august linkedin workforce report data science skills are in high demand across industries report linkedin reported that there were more than 151000 unfilled data scientist jobs across the us with acute shortages in new york city san francisco and los angeles combined with a 15 discrepancy between job postings and job searches on indeed demand for data scientists clearly outstrips supply
+
+today 63 of executives cite a lack of talent as a prime barrier to adopting ai technology
+source francesco brenna giorgio danesi glenn finch brian goehring and manish goyal shifting toward enterprisegrade ai resolving data and skills gaps to realize value ibm institute for business value september 2018
+to make matters worse there has been a lack of consistency in the skills required from candidates to fill a job in some cases job ads are too qualificationintensive makingit difficult to match skills to the job in other cases the candidates without the right qualifications are applying and being recruited as data scientists
+
+this situation has left companies at risk of losing valuable time and opportunity and disappointing results from poor implementations and in worst cases when data science ml and ai techniques are used incorrectly theyre at risk of legal exposure for aspiring data scientists looking for better jobs this lack of consistency has left them unsure about which skills to develop to be successful in their careers
+
+how completing this course could benefit you
+although data science as a field has existed for several decades the rapid growth of artificial intelligence ai in business in the last five years has generated a demand for data scientists that far surpasses the availability of trained professionals
+this talent gap is an opportunity for aspiring professionals and a challenge for companies striving for a competitive advantage in the market for prospective data scientists and organizations building a data science team gaining the necessary skills required can be a formidable obstacle
+
+formalizing necessary skills helps academic institutions data scientists hiring managers and resource talent development teams deliver on the promise of data science machine learning ml and ai
+
+data today is everywhere and most jobs today require data science skills
+looking for a job  gain a new set of data analytics skills complement them with lowcode aipowered technologies and your industry knowledge to get on your way to join a data science team and join a new wave of datasavvy professionals with access to millions of jobs available in the market
+looking for a better job  if you already have a job and even some experience with data analytics use this course to select a specialization and advance your career by playing different roles within a data science team solving real challenges within the enterprise leveraging aipowered technologies
+objectives
+this course has the following learning objectives
+1
+1
+understand the relevance of data science projects in supporting the digital transformation of business across multiple industries
+2
+2
+acquire a data science crossdisciplinary skillset found at the intersection of statistics computer programming and domain expertise
+3
+3
+get acquainted with the following roles of a data science team data scientist data engineer data analyst and business liaison
+4
+4
+access data science collaboration platforms in the cloud including ibm watson studio and data refinery
+5
+5
+experience with data ingestion and manipulation using a csv dataset
+6
+6
+explore a realworld data science industry case study focused on an insurance company and perform the tasks of a data analyst in a simulated handon scenario
+prerequisites
+basic it literacy
+basic it literacy  refers to skills required to operate userlevel operating system environment such as microsoft windows or linux ubuntu performing basic operating commands such copying and pasting using menus windows through the mouse and keyboard additionally users should be familiar with internet browsers search engines page navigation fill and submit forms
+recognition
+this course grants the following digital credentials upon completion
+
+completing this course you will earn the getting started with enterprise data science  foundationallevel badge
+what are the completion requirements
+complete all the modules included in this selfpaced online course
+pass the quizzes included on every module
+more details about this digital certificate below
+badge website
+httpswwwcredlycomorgibmbadgegettingstartedwithenterprisedatascience
+skills
+data analyst
+data engineer
+data exploration
+data refinery
+data science
+data scientist
+data visualization
+fraud analytics
+watson studio
+badge description
+this badge earner has completed all the learning activities included in this online learning experience including handson experience concepts methods and tools related to data science roles and their use of technology applied to enterprise projects the individual has demonstrated knowledge and understanding of the foundations of data science including data science team roles data analysis tools and realworld use cases for the application of the data science method",data science is a multidisciplinary approach to extracting actionable insights from the large and everincreasing volumes of data collected and created by todays organizations
+IBM Security,what do we mean by security within emerging technologies what is ibm security what is the definition of security,"what is ibm security
+ibm security develops intelligent enterprise security solutions and services that allows businesses to put security everywhere to thrive in the face of uncertainty ibms fourpronged approach to security allows enterprises to align protect manage and modernize cyberthreat protection in an increasingly hybrid multicloud world
+
+why is cybersecurity important
+cybersecurity is everyones business cybersecurity skills are required across every industry segment government organization and other institutions  ibm security offers handson access to leading enterprise security solutions for the purpose of learning and developing highly soughtafter cybersecurity skills
+
+courseware
+software
+resources
+ibm security learning academy
+get free technical training for ibm security products you can explore the course catalog and build your own curriculum by enrolling in courses
+
+getting started with threat intelligence and hunting
+this is a foundational course exposing the learner to threat intelligence concepts including attack trends by geography threat intelligence tools and realworld use cases
+
+ibm qradar siem foundations
+ibm qradar siem provides deep visibility into network user and application activity it provides collection normalization correlation and secure storage of events flows asset profiles and vulnerabilities
+
+ibm qradar siem advanced topics
+using the skills taught in this course you will be able to configure processing of uncommon events work with reference data and develop custom rules custom actions and rules
+
+developing secure software
+learn the security basics to develop software that is hardened against attacks and understand how you can reduce the damage and speed the response when a vulnerability is exploited 
+
+important skills in cybersecurity
+curiosity collaboration and communication are critical keys to success in security  learn from industry experts explore ibm security products and use our learning materials to understand the importance of these 3 cs understand the impact of cybersecurity threats on industries and society
+
+why study cybersecurity 
+
+cybersecurity is the practice of protecting the integrity of networks systems devices and data from cyberattacks implementing cybersecurity best practices has become a top priority for enterprise businesses where data sensitivity is at the highest level widely available hacking tools and sophisticated digital extortion tactics put client and business data and even operations at risk maintaining a proactive cybersecurity approach is essential to mitigating both short and longterm business continuity risks
+
+the current state of the cybersecurity landscape has left enterprises relying on leadership roles like a chief information security officer ciso or managed security services providers mssp to implement effective and sustainable cybersecurity strategies but no matter the level of investment or resources businesses of all sizes can take steps to secure their data
+
+cybersecurity impact in the job market 
+
+market insights
+
+cybersecurity isnt just about hackers and defenses its about people and the way security impacts their daily lives
+
+protecting the world is an ambitious goal but an important one that unites us our mission drives the way we design security solutions it guides the way we serve customers and help organizations and communities reach their potential
+
+a new burning glass study should serve as a wakeup call for technical training organizations the demand for cybersecurity professionals is outstripping the supply of skilled workers the national center for education statistics nces shows the number of new cybersecurity programs has increased 33 but the demand is growing faster as cybersecurity is now considered missioncritical in most organizations
+
+how completing this course could benefit you 
+managing cybersecurity is critical and employers see it that way looking for seasoned professionals who can hit the ground running
+
+the typical cybersecurity job today requires a college degree creating a major barrier to entry as the school system is not producing enough graduates in many roles the need for a college degree is unnecessary and not the best way to prepare for a career where technology is changing rapidly
+
+cybersecurity is everywhere and most jobs today require cybersecurity skills 
+
+looking for a job  gain a new set of skills on threat intelligence and enterprise resilience and join a new wave of securityaware professionals with access to millions of jobs available in the market 
+
+looking for a better job  if you already have a job and even some experience in this field use this course to select a specialization and advance your career by playing different roles within a security team solving real challenges within the enterprise leveraging threat intelligence technologies 
+
+objectives
+
+this course has the following learning objectives
+
+1
+
+1
+understand the taxonomy of cybersecurity attacks                         
+
+2
+
+2
+analyze top targeted industries and security trends 
+
+3
+
+3
+determine what steps you can take to protect your organization against these threats 
+
+4
+
+4
+leverage highend security enterprise solutions in high demand such as ibm cloud xforce exchange 
+
+prerequisites
+
+basic it literacy
+basic it literacy  refers to skills required to operate userlevel operating system environment such as microsoft windows or linux ubuntu performing basic operating commands such copying and pasting using menus windows through the mouse and keyboard additionally users should be familiar with internet browsers search engines page navigation fill and submit forms
+
+recognition
+
+this course grants the following digital credentials upon completion
+
+learners
+
+completing this course you will earn the getting started with threat intelligence and hunting  foundationallevel badge 
+
+what are the completion requirements
+
+complete all the modules included in this selfpaced online course
+pass the quizzes included on every module
+more details about this digital certificate below
+
+badge websitehttpswwwcredlycomorgibmbadgegettingstartedwiththreatintelligenceandhunting
+badge website
+
+httpswwwcredlycomorgibmbadgegettingstartedwiththreatintelligenceandhunting
+
+skills
+
+cybersecurity
+cyber resilience
+security practices 
+phishing attacks
+ibm xforce exchange
+threat hunting
+badge description 
+
+this badge earner has completed all the learning activities included in this online learning experience including handson experience concepts methods and tools related to the threat intelligence and hunting domain the individual has demonstrated domain knowledge and understanding in adopting practices methods and tools that relates to the activities performed in cyber threat hunting",ibm security develops intelligent enterprise security solutions and services that allows businesses to put security everywhere to thrive in the face of uncertainty ibms fourpronged approach to security allows enterprises to align protect manage and modernize cyberthreat protection in an increasingly hybrid multicloud world
+Artificial Intelligence,what is artificial intelligence how do define artificial intelligence within emerging technologies what is artificial intelligence,"what is ibm watson
+watson is ibms suite of enterpriseready artificial intelligence ai services applications and tooling
+
+why ibm watson
+build your competitive advantage with artificial intelligence
+
+watson helps you unlock the value of your data in entirely new profound ways by freeing users from repetitive tasks you can empower your teams to focus on more creative highervalue work with insights from watson you can predict and shape future business outcomes while rethinking your practices and workflows with watson you have the ai platform for business
+understand with watson you can analyze and interpret all of your data including unstructured text images audio and video
+
+reason with watson you can provide personalized recommendations by understanding a users personality tone and emotion
+
+learn with watson you can utilize machine learning to grow the subject matter expertise in your apps and systems
+
+interact with watson you can create chatbots that can engage in dialog
+ aipowered solutions
+unlocks the value in your organization with ai change how your employees work and redefine the way your business operates
+do you want to learn about our training options
+learn more
+what is watson
+ibms portfolio of businessready tools applications and solutions designed to reduce the costs and hurdles of ai adoption while optimizing outcomes and responsible use of ai
+why watson
+operationalize ai and transform how work gets done with our proven capabilities and experience with 100 million users
+maximize watson with ibm cloud paks
+an open faster more secure way to move more workloads to cloud and ai
+
+ibm cloud paks give developers data managers and administrators an open environment to quickly build new cloudnative applications modernize existing applications and extend the ai capabilities of ibm watson into their business in a consistent manner across multiple clouds
+
+explore cloud pak training and credentials 
+choose a solution area you are interested in
+ai  machine learningexplore training
+ibm watsonexplore training
+ibm cloud paksexplore training
+ai rolebased learning
+our rolebased learning is designed to enhance your skills in the marketplace progressing through the three levels of our rolebased learning paths will help you earn the skills required to compete in this ever evolving fast paced world of ai
+
+all of our rolebased learning starts with an associate level comprised of free learning to get you started the professional and advanced levels are offered in two delivery options live delivery or digital as part of a paid subscription
+did you know that you can get all the training you want and save with a subscription
+learn more
+badge image
+machine learning specialist
+build machine learning skills to create and build ai solutions build foundational knowledge and expand to more advanced topics
+explore learning path
+badge image
+data scientist with ibm watson
+build skills to discover the use of ibm watson to build ai solutions build foundational knowledge and expand to more advanced topics
+coming soon
+badge image
+ai specialist
+learn essential ai skills to create and build ai solutions build foundational knowledge and expand to more advanced topics
+coming soon
+
+work with an expert
+data and ai learning from ibm is developed by data scientists and technical experts grounded in open source design thinking and advanced technology our indepth learning is flexibly delivered how when and where you want it",artificial intelligence ai is all around us from selfdriving cars digital assistants rideshare apps banking apps and so much more it is the simulation of human intelligence using machines experts say ai will change 100 of jobs over the next 10 years but there is a fear that the next generation isnt prepared for the shift to ai
