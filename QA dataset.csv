@@ -1,0 +1,813 @@
+﻿topic,question,context,answer
+Data Science,What is data science? What is the definition of data science? Explain what data science is,"Today’s businesses are awash in data with more streaming in every day.  Simply having the data, however, doesn’t guaranty that anything useful can be extracted from it.  That’s where data science comes in.  Data science is the practice of leveraging a unique set of skills and tools to help businesses derive value from their data.
+
+Why is Data Science important?
+Answers to the most important questions facing a business often lie within its own data.  Data science enables businesses to mine that data for drivers of past and future performance, opportunities for new revenue, methods to increase efficiency, ways to improve customer experience and a host of other critical business insights. In short, data science provides an unbiased examination of the past while pointing the way to the future.
+
+Courseware
+Software
+Resources
+OpenDS4All
+OpenDS4All is a project created to accelerate the creation of data science curriculum at academic institutions.
+
+Getting Started with Enterprise Data Science
+This course provides a basic understanding of the foundations of Data Science including: Data Science Team Roles, Data Analysis Tools, and real-world use cases.
+
+Constraint Programming with ILOG CP Optimizer
+Fundamentals of constraint programming (CP). CP is demonstrated through the use of ILOG CP Optimizer via ILOG OPL-CPLEX/ILOG Analyst Studio, a complete integrated [...]
+
+Overview of IBM Cognos Analytics
+This course provides participants with a high level overview of the IBM Cognos Analytics suite of products and their underlying architecture. They will examine each component as it relates to an Analytics solution.
+
+IBM Planning Analytics - Design & Develop Models in Workspace
+This course is designed to teach modelers how to build a complete model in IBM Planning Analytics. Through a series of lectures and hands-on exercises, students will learn how to set up dimensions [...]
+
+View All
+Important skills when working with Data Science
+Curiosity, creativity and critical thinking are all hallmarks of a successful data scientist. And until recently, getting the most out of data required a working knowledge of SQL or statistical programming languages such as R or Python. However, modern data science tools have opened the door to the business user or citizen data scientist, as drag-and-drop, visual data modeling has made no-code data science a reality.""
+""Explore how people, processes, and technology interact in a data science project lifecycle, tackling real-world industry challenges.               Why study data science?
+Data science is a multidisciplinary approach to extracting actionable insights from the large and ever-increasing volumes of data collected and created by today’s organizations. Data science encompasses preparing data for analysis and processing, performing advanced data analysis, and presenting the results to reveal patterns and enable stakeholders to draw informed conclusions.
+
+Data preparation can involve cleansing, aggregating, and manipulating it to be ready for specific types of processing. Analysis requires the development and use of algorithms, analytics, and AI models. It’s driven by software that combs through data to find patterns within to transform these patterns into predictions that support business decision-making. The accuracy of these predictions must be validated through scientifically designed tests and experiments. And the results should be shared through the skillful use of data visualization tools that make it possible for anyone to see the patterns and understand trends.
+
+As a result, data scientists (as data science practitioners are called) require computer science and pure science skills beyond those of a typical data analyst. A data scientist must be able to do the following:
+
+Apply mathematics, statistics, and the scientific method
+Use a wide range of tools and techniques for evaluating and preparing data—everything from SQL to data mining to data integration methods
+Extract insights from data using predictive analytics and artificial intelligence (AI), including machine learning and deep learning models
+Write applications that automate data processing and calculations
+Tell—and illustrate—stories that clearly convey the meaning of results to decision-makers and stakeholders at every level of technical knowledge and understanding
+Explain how these results can be used to solve business problems
+This combination of skills is rare, and it’s no surprise that data scientists are currently in high demand.
+Data science impact in the job market
+Market Insights
+In the 2018 August LinkedIn Workforce Report: Data Science Skills are in High Demand Across Industries report, LinkedIn reported that there were more than 151,000 unfilled data scientist jobs across the US, with “acute” shortages in New York City, San Francisco, and Los Angeles. Combined with a 15% discrepancy between job postings and job searches on Indeed, demand for data scientists clearly outstrips supply.
+
+Today, 63% of executives cite a lack of talent as a prime barrier to adopting AI technology
+Source: Francesco Brenna, Giorgio Danesi, Glenn Finch, Brian Goehring, and Manish Goyal. “Shifting toward Enterprise-grade AI: Resolving data and skills gaps to realize value.” IBM Institute for Business Value, September 2018.
+To make matters worse, there has been a lack of consistency in the skills required from candidates to fill a job. In some cases, job ads are too qualification-intensive, makingit difficult to match skills to the job. In other cases, the candidates without the right qualifications are applying and being recruited as data scientists.
+
+This situation has left companies at risk of losing valuable time and opportunity and disappointing results from poor implementations. And, in worst cases, when data science, ML and AI techniques are used incorrectly, they’re at risk of legal exposure. For aspiring data scientists looking for better jobs, this lack of consistency has left them unsure about which skills to develop to be successful in their careers.
+
+How completing this course could benefit you?
+Although data science as a field has existed for several decades, the rapid growth of artificial intelligence (AI) in business in the last five years has generated a demand for data scientists that far surpasses the availability of trained professionals.
+This talent gap is an opportunity for aspiring professionals and a challenge for companies striving for a competitive advantage in the market. For prospective data scientists and organizations building a data science team, gaining the necessary skills required can be a formidable obstacle.
+
+Formalizing necessary skills helps academic institutions, data scientists, hiring managers, and resource talent development teams deliver on the promise of data science, machine learning (ML), and AI.
+
+Data today is everywhere, and most jobs today require data science skills
+Looking for a job? – Gain a new set of data analytics skills, complement them with low-code AI-powered technologies, and your industry knowledge, to get on your way to join a data science team, and join a new wave of data-savvy professionals with access to millions of jobs available in the market.
+Looking for a better job? – If you already have a job and even some experience with data analytics, use this course to select a specialization and advance your career, by playing different roles within a data science team, solving real challenges within the enterprise, leveraging AI-powered technologies.
+Objectives
+This course has the following learning objectives
+1
+1
+Understand the relevance of Data science projects in supporting the digital transformation of business across multiple industries.
+2
+2
+Acquire a data science cross-disciplinary skillset found at the intersection of statistics, computer programming, and domain expertise.
+3
+3
+Get acquainted with the following roles of a Data Science team: Data scientist, Data engineer, Data analyst, and Business Liaison.
+4
+4
+Access Data science collaboration platforms in the cloud, including IBM Watson Studio and Data Refinery.
+5
+5
+Experience with data ingestion and manipulation using a CSV dataset.
+6
+6
+Explore a real-world data science industry case study focused on an insurance company, and perform the tasks of a Data Analyst in a simulated hand-on scenario.
+Pre-requisites
+Basic IT Literacy
+Basic IT Literacy - Refers to skills required to operate user-level operating system environment such as Microsoft Windows® or Linux Ubuntu®, performing basic operating commands such, copying and pasting, using menus, windows, through the mouse and keyboard. Additionally, users should be familiar with internet browsers, search engines, page navigation, fill and submit forms.
+Recognition
+This course grants the following digital credentials upon completion
+
+Completing this course you will earn the Getting Started with Enterprise Data Science - Foundational-level badge.
+What are the completion requirements?
+Complete all the modules included in this self-paced online course
+Pass the quizzes included on every module
+More details about this digital certificate below
+Badge website
+https://www.credly.com/org/ibm/badge/getting-started-with-enterprise-data-science
+Skills:
+Data Analyst
+Data Engineer
+Data Exploration
+Data Refinery
+Data Science
+Data Scientist
+Data Visualization
+Fraud Analytics
+Watson Studio
+Badge Description:
+This badge earner has completed all the learning activities included in this online learning experience, including hands-on experience, concepts, methods, and tools related to Data Science roles and their use of technology applied to enterprise projects. The individual has demonstrated knowledge and understanding of the foundations of Data Science including: Data Science Team Roles, Data Analysis Tools, and real-world use cases for the application of the Data Science method.""",Data science is a multidisciplinary approach to extracting actionable insights from the large and ever-increasing volumes of data collected and created by today’s organizations
+IBM Security,What do we mean by Security within emerging technologies? What is IBM Security? What is the definition of Security?,"IBM Security develops intelligent enterprise security solutions and services that allows businesses to put security everywhere to thrive in the face of uncertainty. IBM’s four-pronged approach to security allows enterprises to align, protect, manage, and modernize cyberthreat protection in an increasingly hybrid, multi-cloud world.
+
+Why is cybersecurity important?
+Cybersecurity is everyone’s business. Cybersecurity skills are required across every industry segment, government organization, and other institutions.  IBM Security offers hands-on access to leading enterprise security solutions for the purpose of learning and developing highly sought-after cybersecurity skills.
+
+Courseware
+Software
+Resources
+IBM Security Learning Academy
+Get free technical training for IBM Security products. You can explore the course catalog and build your own curriculum by enrolling in courses.
+
+Getting Started with Threat Intelligence and Hunting
+This is a foundational course, exposing the learner to threat intelligence concepts including: Attack trends by geography, threat intelligence tools and real-world use cases.
+
+IBM QRadar SIEM Foundations
+IBM QRadar SIEM provides deep visibility into network, user, and application activity. It provides collection, normalization, correlation, and secure storage of events, flows, asset profiles, and vulnerabilities.
+
+IBM QRadar SIEM Advanced Topics
+Using the skills taught in this course, you will be able to configure processing of uncommon events, work with reference data, and develop custom rules, custom actions, and rules.
+
+Developing Secure Software
+Learn the security basics to develop software that is hardened against attacks, and understand how you can reduce the damage and speed the response when a vulnerability is exploited. [...]
+
+Important skills in cybersecurity
+Curiosity, collaboration and communication are critical keys to success in Security.  Learn from industry experts, explore IBM Security products and use our learning materials to understand the importance of these 3 C's. ""Understand the impact of cybersecurity threats on industries and society.
+
+Why study cybersecurity? 
+
+Cybersecurity is the practice of protecting the integrity of networks, systems, devices, and data from cyber-attacks. Implementing cybersecurity best practices has become a top priority for enterprise businesses, where data sensitivity is at the highest level. Widely available hacking tools and sophisticated digital extortion tactics put client and business data, and even operations, at risk. Maintaining a proactive cybersecurity approach is essential to mitigating both short- and long-term business continuity risks.
+
+The current state of the cybersecurity landscape has left enterprises relying on leadership roles like a Chief Information Security Officer (CISO) or Managed Security Services Providers (MSSP) to implement effective and sustainable cybersecurity strategies. But no matter the level of investment or resources, businesses of all sizes can take steps to secure their data.
+
+Cybersecurity impact in the job market 
+
+Market Insights
+
+Cybersecurity isn’t just about hackers and defenses. It’s about people and the way security impacts their daily lives.
+
+Protecting the world is an ambitious goal, but an important one that unites us. Our mission drives the way we design security solutions. It guides the way we serve customers and help organizations and communities reach their potential.
+
+A new Burning Glass study should serve as a wake-up call for technical training organizations: The demand for cybersecurity professionals is outstripping the supply of skilled workers. The National Center for Education Statistics (NCES) shows the number of new cybersecurity programs has increased 33%, but the demand is growing faster as cybersecurity is now considered mission-critical in most organizations.
+
+How completing this course could benefit you? 
+Managing cybersecurity is critical, and employers see it that way, looking for seasoned professionals who can hit the ground running.
+
+The typical cybersecurity job today requires a college degree, creating a major barrier to entry as the school system is not producing enough graduates. In many roles, the need for a college degree is unnecessary and not the best way to prepare for a career where technology is changing rapidly.
+
+Cybersecurity is everywhere, and most jobs today require cybersecurity skills 
+
+Looking for a job? – Gain a new set of skills on threat intelligence and enterprise resilience, and join a new wave of security-aware professionals with access to millions of jobs available in the market. 
+
+Looking for a better job? – If you already have a job and even some experience in this field, use this course to select a specialization and advance your career, by playing different roles within a security team, solving real challenges within the enterprise, leveraging threat intelligence technologies. 
+
+Objectives
+
+This course has the following learning objectives
+
+1
+
+1
+Understand the taxonomy of cybersecurity attacks                         
+
+2
+
+2
+Analyze top targeted industries and security trends 
+
+3
+
+3
+Determine what steps you can take to protect your organization against these threats. 
+
+4
+
+4
+Leverage high-end security enterprise solutions in high demand such as IBM Cloud X-Force Exchange. 
+
+Pre-requisites
+
+Basic IT Literacy
+Basic IT Literacy - Refers to skills required to operate user-level operating system environment such as Microsoft Windows® or Linux Ubuntu®, performing basic operating commands such, copying and pasting, using menus, windows, through the mouse and keyboard. Additionally, users should be familiar with internet browsers, search engines, page navigation, fill and submit forms.
+
+Recognition
+
+This course grants the following digital credentials upon completion
+
+Learners
+
+Completing this course you will earn the Getting Started with Threat Intelligence and Hunting - Foundational-level badge. 
+
+What are the completion requirements?
+
+Complete all the modules included in this self-paced online course
+Pass the quizzes included on every module
+More details about this digital certificate below
+
+Badge websitehttps://www.credly.com/org/ibm/badge/getting-started-with-threat-intelligence-and-hunting
+Badge website
+
+https://www.credly.com/org/ibm/badge/getting-started-with-threat-intelligence-and-hunting
+
+Skills:
+
+Cybersecurity
+Cyber Resilience
+Security Practices 
+Phishing Attacks
+IBM X-Force Exchange
+Threat Hunting
+Badge Description: 
+
+This badge earner has completed all the learning activities included in this online learning experience, including hands-on experience, concepts, methods and tools related to the threat intelligence and hunting domain. The individual has demonstrated domain knowledge and understanding in adopting practices, methods and tools that relates to the activities performed in cyber threat hunting.""","IBM Security develops intelligent enterprise security solutions and services that allows businesses to put security everywhere to thrive in the face of uncertainty. IBM’s four-pronged approach to security allows enterprises to align, protect, manage, and modernize cyberthreat protection in an increasingly hybrid, multi-cloud world."
+IBM Engineering,"What is Engineering? What is the definition of IBM Engineering? Within emerging technologies, how does engineering work?","IBM Engineering Lifecycle Management (ELM) is the most comprehensive solution on the market for system and software development. It covers the key disciplines of the engineering lifecycle: requirements management, system and software modeling, workflow management, and test planning and execution. The ELM solution utilizes  artificial intelligence (AI) and analytics to help teams design and develop software-intensive products and systems. IBM Engineering is open by design, offering Open Services for Lifecycle Collaboration (OSLC) interfaces to integrate with other solutions so that it can be the system of record based on federated, linked data from across the development team.
+
+Where is it used?
+
+ELM is used to develop and deliver complex products that have to comply with industry and/or government regulations, and that requires close collaboration across diverse teams which may include subcontractors.  These types of products are commonly found in Aerospace and Defense (A&D), automotive, medical devices, and the financial services markets. Some large public infrastructure projects, such as extending rail lines or building new ports also benefit from the capabilities that ELM offers.
+
+What are the key features of IBM Engineering Lifecycle Management?
+Supports collaborative team development across all development functions and geographically distributed teams
+Supports implementation of industry standards and regulatory requirements into the development process
+Enables full lifecycle traceability of all requirements, design and test data
+Uses AI to improve the quality of requirements
+Supports reuse of requirements, design data and processes to support delivery of multiple product versions and variants
+Enables visual modeling, simulation and testing of architectures and design to optimize designs early in the development process
+Provides customizable reporting and dashboards
+Supports full change impact assessment and change management from requirements through testing
+Enables extensibility through open standards such as OSLC
+Enables analysis of data to improve decision-making
+Promotes continuous improvement through the automation of best practices
+Enables end-to-end management of the development lifecycle
+Courseware
+Software
+Resources
+Quick Start Sessions
+Learn how to use IBM Engineering tools. Quick Starts are short, focused, introductory hands-on labs designed to take less than two hours to complete.
+
+The IBM Engineering Lifecycle Management solutions includes:
+Engineering Requirements Management DOORS Next - Define, manage and analyze requirements.  Link requirements to system and software models, work tasks, test plans and test results.  Analyze the impact of potential requirement changes across the entire development team.
+
+Engineering Requirements Quality Assistant - Use AI to improve the quality of requirements based on the INCOSE Guidelines for Writing Good Requirements
+
+Engineering Systems Design Rhapsody - Analyze and simulate your system and software using  the Systems Modeling Language (SysML).  Generate software from the software models.  Link system and software models to requirements.
+
+Engineering Workflow Management - Plan, assign and manage tasks across the development team.  Monitor project status.
+
+Engineering Test Management - Create and execute test plans and record results. Manage test environments.  Link test plans and test results to requirements. ""IBM Engineering Lifecycle Optimization - Method Composer (MEC) is a tool platform that enables process engineers and managers to implement, deploy, and maintain processes for organizations or individual projects. 
+
+
+MEC provides a knowledge base of intellectual capital which you can browse, manage and deploy. MEC is designed to be a content management system that provides a common management structure and look and feel for all of your content, rather than being a document management system in which you would store and access hard to maintain legacy documents all in their own shapes and formats.
+
+MEC also provides powerful automation to enact practice content by deploying it as a set of work items in IBM Engineering Workflow Management so that tasks may be assigned to engineers. This helps project leads by speeding up deployment of complex projects. Such deployed tasks automatically have links back to the practice content, providing in-context guidance to engineers on their assigned work, helping them get up to speed much faster.
+
+In this Quick Start you will begin by browsing some already-deployed practice content and work items. You will then create new practice content using the Method Composer Eclipse client, before publishing that to the Jazz team server both as browsable content and a set of deployable work items. Lastly you will explore an alternative way of creating practice content by using IBM Engineering DOORS Next as an authoring tool"" 
+The IBM Engineering Lifecycle Management (ELM) solution is an open architecture, open standards-based offering that helps to manage and speed delivery of complex products, especially those in regulated environments such as Aerospace and Defense, Automotive and Medical Devices. The platform integrates engineering information such as requirements, system and software models, and test plans and test results throughout the product lifecycle. This provides transparency and traceability, providing value in two main areas. First, this helps to understand the impact of proposed changes, as well as improving management of changes across the development team.  Second, this traceability makes it much easier to meet regulatory requirements - compliance becomes a by-product of your development process.
+
+In this Quick Start lab you will take a brief tour of some of the major capabilities of the ELM solution:
+
+Planning and Task Management with IBM Engineering Workflow Management (EWM)
+Requirements Management with IBM Engineering Requirements Management – DOORS Next
+Architecture Management with IBM Engineering Systems Design – Rhapsody Model Manager (RMM)
+Test Management with IBM Engineering Test Management (ETM)
+Reporting with Jazz Reporting Services Report Builder (JRS)
+Analysis with IBM Engineering Lifecycle Optimization - Engineering Insights (ENI)","IBM Engineering involves the IBM Engineering Lifecycle Management (ELM), a solution is an open architecture, open standards-based offering that helps to manage and speed delivery of complex products, especially those in regulated environments such as Aerospace and Defense, Automotive and Medical Devices. It also includes IBM Engineering Lifecycle Optimization - Method Composer (MEC), a tool platform that enables process engineers and managers to implement, deploy, and maintain processes for organizations or individual projects. "
+IBM Automation,What is Automation? What does IBM Automation involve? How would you define Automation under the emerging technologies field?,"An AI-powered software that helps businesses complete routine and repetitive tasks with low human intervention. IBM utilizes four different types of Automation to help our clients work more efficiently. New to Automation? Check out this Automation Overview!
+
+What are the types of automation?
+Basic Automation - Basic automation takes simple, rudimentary tasks and automates them. This level of automation is about digitizing work by using tools to streamline and centralize routine tasks, such as using a shared messaging system instead of having information in disconnected silos. Business process management (BPM) and robotic process automation (RPA) are types of basic automation. Check out this use case from Deloitte to see Basic Automation in action.
+
+ 
+
+Process Automation - Process automation manages business processes for uniformity and transparency. It is typically handled by dedicated software and business apps. Using process automation can increase productivity and efficiency within your business. It can also deliver new insights into business challenges and suggest solutions. Process mining and workflow automation are types of process automation. Check out this use case from Credigy to see Process Automation in action.
+
+ 
+
+Integration Automation - Integration automation is where machines can mimic human tasks and repeat the actions once humans define the machine rules. One example is the “digital worker.” In recent years, people have defined digital workers as software robots that are trained to work with humans to perform specific tasks. They have a specific set of skills, and they can be “hired” to work on teams. Check out this use case from Cobmax to see Integration Automation in action.
+
+ 
+
+Artificial Automation - The most complex level of automation is artificial intelligence (AI) automation. The addition of AI means that machines can “learn” and make decisions based on past situations they have encountered and analyzed. For example, in customer service, virtual assistants powered can reduce costs while empowering both customers and human agents, creating an optimal customer service experience. Check out the journey of the autonomous ship the Mayflower to see AI powered Automation in action."". ""Robotic Process Automation (RPA) is the automation of computer-centric processes using software robots that can emulate human actions in the computer. These software robots, or bots, can be attended or unattended. 
+
+The processes that are candidates for automation are generally time-consuming and highly repetitive processes, that is, they follow a fixed and long flow, with predefined rules and well-determined input and output parameters. A specialized type of RPA designed to help humans on their daily tasks by automating the mechanical part of their everyday work. These types of bots require human interaction to be able to complete their automation goal. Unattended bots don't need human interaction to complete their automation goal. They might rely on human data input, like documents or email messages.Hyperautomation is the combination of advanced technologies such as machine learning, Artificial Intelligence, and process mining, in combination with RPA, to identify and automate significant processes, and also improve existing automation. • Accuracy, since bots eliminate errors during data entry in systems.
+
+• Bots have high availability with uninterrupted executions.
+
+• Bots can process high volumes of data with concurrent processing.
+
+• Integration with legacy systems without the need for customizations.
+
+• Real-time data visualization with dashboards.""","An AI-powered software that helps businesses complete routine and repetitive tasks with low human intervention. IBM utilizes four different types of Automation to help our clients work more efficiently which include Basic Automation, Process Automation, Integration Automation and Artificial Automation."
+IBM Cloud,What is IBM Cloud? What does the Cloud mean? How do we define IBM Cloud under emerging technologies?,"IBM Cloud is a full-stack cloud platform that spans public, private and hybrid environments. Build with a robust suite of advanced data and AI tools, and draw on deep industry expertise to help you on your journey to the cloud.
+
+What are the benefits of Cloud Computing?
+Flexibility - Users can scale services to fit their needs, customize applications and access cloud services from anywhere with an internet connection. 
+
+Efficiency - Enterprise users can get applications to market quickly, without worrying about underlying infrastructure costs or maintenance. 
+
+Strategic value - Cloud services give enterprises a competitive advantage by providing the most innovative technology available."". Getting Started with Enterprise Digital Modernization through Cloud Adoption
+
+Why study Cloud Adoption for the Enterprise?
+
+In the foundational course, we start by exploring the digital transformation drivers made possible by cloud technologies and services. We cover how cloud works, its capabilities, types, and delivery models (IaaS, SaaS, and PaaS). We then delve into digital transformation strategies such as Agile practices, the IBM Garage Method, and Enterprise Design Thinking in order to highlight some of the practices for helping organizations get started on their transformation journey. Lastly, we will deploy a test pilot cloud application for a fictional client using IBM Code Engine. Getting Started with Enterprise Digital Modernization through Cloud Adoption
+
+Why study Cloud Adoption for the Enterprise?
+
+In the foundational course, we start by exploring the digital transformation drivers made possible by cloud technologies and services. We cover how cloud works, its capabilities, types, and delivery models (IaaS, SaaS, and PaaS). We then delve into digital transformation strategies such as Agile practices, the IBM Garage Method, and Enterprise Design Thinking in order to highlight some of the practices for helping organizations get started on their transformation journey. Lastly, we will deploy a test pilot cloud application for a fictional client using IBM Code Engine. 
+
+Cloud Adoption impact in the job market
+
+Market Insights
+
+Cloud computing is becoming synonymous with “computing.” In a 2019 survey of nearly 800 companies, 94% were using some form of cloud computing. Many businesses are still in the first stages of their cloud journey, having migrated or deployed about 20% of their applications to the cloud, and are working out the unique security, compliance and geographic implications of moving their remaining mission-critical applications. Exploring the concept of digital transformation and its business impact.  
+
+Introduction
+
+In this topic, we will In this topic, we'll explore what digital transformation is, the key transformation drivers, and the technologies at the forefront of enterprise digital transformation.   
+
+Throughout this topic, we will attempt to answer the following questions:
+
+How have industries benefitted from adopting digital transformation practices?
+What role have technologies such as AI, Cloud, and IoT played in the digital revolution?  
+Image showing gear and a key person in middle.
+1. How have industries benefitted from adopting digital transformation practices? 
+
+We are at one of the tipping points in history where the impact of technology on business is significant enough to transform the whole way that business gets done. 
+
+The New Digital Age 
+
+It’s no secret that the pace of innovation and change has accelerated rapidly over the last few years. From the explosion of social media to online shopping and apps to track your driver, digital transformation has quickly become an integral part of daily life.
+
+Abstract background with connected lines and futuristic digital background for AI and Cloud technology
+In every industry, business leaders realize customer expectations have created tremendous pressure to change the way they set their strategies and run their organizations. Yet, because they have to manage existing, often traditional, offerings and operations, new requirements to incorporate information and interactivity quickly drive up costs and complexity.
+
+Business leaders have long used information technology (IT) to improve productivity and efficiency, reach new markets and optimize supply chains. What’s new is that customer expectations have also changed. People everywhere are using social networks to find jobs and restaurants, lost friends and new partners—and, as citizens, to achieve common political goals. They are using the internet for entertainment, shopping, socializing, and household management.
+
+At the same time, businesses are undertaking their own digital transformations, rethinking what customers value most, and creating operating models that take advantage of what’s newly possible for competitive differentiation. The challenge for business is how fast and how far to go on the path to digital transformation.
+
+What is Digital Transformation?
+
+Collage of transformation drivers like using mobile devices, social media, IoT devices, Cloud services
+Digital transformation takes a customer-driven, digital-first approach to all aspects of a business, from its business models to customer experiences to processes and operations. It uses AI, automation, hybrid cloud, and other digital technologies to leverage data and drive intelligent workflows, faster and smarter decision-making, and real-time response to market disruptions. And ultimately, it changes customer expectations and creates new business opportunities.
+
+While many organizations have undertaken a digital transformation in response to a single competitive threat or market shift, it has never been about making a one-time fix. According to MIT Sloan Management Review, ""Digital Transformation is better thought of as continual adaptation to a constantly changing environment."" Its goal is to build a technical and operational foundation, to evolve and respond in the best possible way to unpredictable and ever-changing customer expectations, market conditions, and local or global events. 
+
+Digital Transformation Drivers 
+
+Customer expectations have always been the prime drivers of digital transformation. It began when a rush of new technologies made new kinds of information and capabilities accessible in new ways, such as: 
+
+Mobile devices
+Social media
+The internet of things (IoT)
+Cloud computing
+Pioneers—disruptors—such as Amazon and Netflix snatched market share from their competition by adopting these technologies to:
+
+Reinvent business models (e-commerce, electronic delivery).
+Optimize processes (supply chain management, new feature development).
+Constantly improve the customer experience (in-context customer reviews, personalized recommendations).
+Competitors adapted to provide even more capability and convenience (or they struggled and maybe even disappeared). Today, customers expect to conduct all business digitally, wherever, and whenever, using any device, with all the supporting information and content they need close at hand. Ultimately, digital transformation is about meeting these ever-escalating expectations. But often, an organization's entry point is a transformation initiative that addresses a specific means to this end, such as:
+
+
+Automating business processes
++
+
+Defending against disruption
++
+
+Dealing with change effectively
++
+
+Enabling on-demand access to more resources, with fewer limits
++
+COVID-19 pandemic: The ultimate driver? 
+
+Graph/ Chart representing Digital Transformation caused by Covid 19.
+In 2020, the COVID-19 pandemic laid bare every organization's digital transformation efforts and progress (or lack thereof). Manufacturers learned just how quickly and effectively they could get new products to market. Retailers scrambled to provide customers with new and safer ways to shop. Employers adopted or expanded technologies that let employees work from home.
+
+Among operational workflows, supply chains were the most glaringly exposed. Supply chains are always vulnerable; according to the McKinsey Global Institute, supply chain disruptions lasting one month or longer occur every 3.7 years. But shortly after the pandemic began, the United States suddenly imported almost 50% less from major trading partners. Companies were forced to undergo years or decades' worth of supply chain transformation in weeks or months.
+
+The arrival of the pandemic forced us to reconsider the capabilities we had at our fingertips and adapt them to the circumstances we now face daily. Take video conferencing, for example. We’ve had this capability for years, but we never quite realized its full potential. Now, video calls are an essential part of our day, proving their worth far beyond hosting meetings remotely.
+
+Patients can have a video consultation with their doctor and have their prescription made available at their closest pharmacy. It benefits the doctor, the patient, and everyone who may come into contact with the patient. This highlights the rapid acceleration of digital transformation out of necessity – but also how the right technology can enhance employee and customer safety. 
+
+2. What role have technologies such as AI, Cloud, and IoT played in the digital revolution? 
+
+Enterprises will look back at the start of the 2020s as a moment when they either seized opportunities or naively hoped old ways of doing business would survive. Smarter businesses realize that it’s a critical time to meet people’s evolving needs and give their customers exceptional experiences. Business transformation is the key to accomplishing these goals, studies show.
+
+As disruption and volatility may continue for the foreseeable future, the organizations that apply human-focused strategies Business transformation will determine who thrives in the new landscape ahead and the new capabilities of emerging and advancing technologies will be positioned to lead in the “new normal” to come.
+
+Transformational Technologies
+
+Virtually any digital technology can play a role in an organization's digital transformation strategy. But technologies that figure to play a central role today and in the near future include: 
+
+
+Digitization
++
+
+Artificial intelligence and automation
++
+
+Cloud Computing 
++
+
+Microservices
++
+
+Internet of Things
++
+
+Blockchain 
++
+Combining multiple technologies, including cloud, cognitive AI, mobile, and the Internet of Things (IoT), Digital Reinvention rethink customer and partner relationships from a need-, use- or aspiration-first perspective. Digital Reinvention helps organizations create unique, compelling experiences for their customers, partners, employees, and other stakeholders. These benefits arise regardless of whether enablement or fulfillment of the experience involves the direct provision of products or services or orchestration of products or services from partner organizations by way of a business ecosystem. The most successful digitally reinvented businesses establish a platform of engagement for their customers, acting as an enabler, conduit, and partner. 
+
+How Cloud Fits into the Bigger Picture 
+
+The ongoing digital revolution affects individuals and businesses alike. Increasingly, social networks and digital devices are the default means for engaging government, businesses, and civil society, as well as friends and family members. People use mobile, interactive tools to determine who to trust, where to go, and what to buy. This means that the last best experience that people have anywhere becomes the minimum expectation for the experience they want everywhere, including in the enterprise. Given the competitive landscape, this means that enterprises must undertake their own digital transformations, rethink what their customers value most, and create operating models that take advantage of what is newly possible for competitive differentiation. The challenge for the enterprise is how fast and how far to go down the path to digital transformation and cloud adoption.
+
+Increasing customer expectations and a more competitive business context have placed tremendous pressure on business leaders to change the way they set their strategies and run their organizations. New requirements to incorporate more information and greater interactivity quickly drive up costs and complexity.
+
+Futuristic digital background connecting different technologies to cloud.
+Business leaders have long used information technology to improve productivity and efficiency, reach new markets, and optimize supply chains. What is new is that customer expectations have changed.
+
+How can enterprises best respond to this shift? 
+How can they take advantage of the opportunity to innovate and grow through technology adoption?  
+How can they do all this cost-efficiently?
+This is the domain of digital transformation and its intersection with cloud adoption. Digital transformation incorporates the change associated with the application of digital technology in all aspects of society. Cloud Adoption is the way in which businesses implement digital transformation.
+
+In our work with clients, we have found that enterprises that can develop and effectively execute a digital transformation strategy and take full advantage of new technologies, such as cloud are able to transform their business models and set a new direction for entire industries.
+
+We believe the most crucial decision that a company can make to successfully pursue a digital transformation strategy is to wholeheartedly yet thoughtfully adopt the cloud as the IT platform of choice. We have observed many companies that have successfully used cloud adoption to rapidly advance their digital transformation strategy. We have also seen companies make unsuccessful cloud adoption decisions that have hampered or set back their pace of digital transformation. What we will show you in this book is how to model your decision-making process after the successful transformations while avoiding the common pitfalls we’ve seen in the unsuccessful transformations.
+
+How the hybrid cloud can create the world's computer
+
+
+Digital Transformation in Action
+
+Image showing a truck which is ready to ship goods representing Convoy App
+Convoy looks to disrupt the USD $700billion trucking industry Convoy, a Seattle-based start-up, has developed an Uber-like app interface to give individual truckers a more efficient way to connect with individuals and businesses that want to ship goods.
+
+By matching truck drivers with clients directly, Convoy disintermediates traditional brokers. The company and other entrants such as Los Angeles-based Cargomatic intend to reduce the average transportation prices and delivery times while increasing average loads and trucker income.
+
+Lending Club challenges traditional banks in their backyard San Francisco-headquartered Lending Club offers better borrowing and lending rates than traditional banks. 
+
+Operating online, Lending Club automates peer-to-peer loans across its digital platform. With operating costs that are 60 percent lower than those of traditional banks, Lending Club has experienced massive growth over the past five years. Lending Club still has substantial space for growth in an area of the market that has historically produced more than 4 billion in profits annually. 
+
+Women sitting at home with the mobile/laptop ready to lend money from the Lending app
+Image showing fields covered with solar panels producing clean energy.
+Clean Energy Collective devises new modes of generation and consumption Founded in 2010, the Colorado-based Clean Energy Collective (CEC) builds, operates, and maintains community-based clean energy facilities.
+
+Using remote metering technologies that integrate seamlessly with utility billing systems and installing solar panels either on customer’s property or elsewhere, CEC is able to track and apply for clean energy production credits directly on customer’s bills. 
+
+By the end of 2015, more than 27 gigawatts of solar capacity was online in the United States, enough to power more than 5.4 million homes. 
+
+Why it matters? 
+Since the rise of the internet in the late 1990s, companies under increasing pressure to stay ahead of the curve. Social media, big data, artificial intelligence, and cloud computing are just a few of the technologies at the forefront of the digital revolution. To remain competitive, organizations must continually adapt and innovate in order to meet customer expectations.
+
+Summary
+
+1
+
+1
+Digital Transformation/ Reinvention uses AI, automation, hybrid cloud, and other digital technologies to leverage data and drive intelligent workflows, faster and smarter decision-making, and real-time response to market disruptions. 
+
+2
+
+2
+The biggest disruptors are: 
+
+Mobile devices
+Social media 
+The internet of things (IoT)
+Cloud computing
+3
+
+3
+Digital Reinvention requires a change in thinking and culture:
+
+Maintain an overarching focus on experience rather than production
+Embrace technological change
+Commit to continuous improvement
+4
+
+4
+Four initial steps can set organizations on the path toward Digital Reinvention.    
+
+Envision possibilities
+Create pilots
+Deepen capabilities
+Orchestrate ecosystems
+Next 
+
+We are going to explore the fundamentals of cloud computing and the role it plays as a digital transformation driver. ""Introduction to Cloud Computing and its capabilities   
+
+Introduction
+
+In this topic, we'll define cloud computing and discuss its capabilities and benefits in a business context. 
+
+Throughout this topic, we will attempt to answer the following questions: 
+
+What is cloud computing?
+What are the capabilities of the cloud?
+1. What is cloud computing? 
+
+Cloud computing transforms IT infrastructure into a utility: It lets you ‘plug into' infrastructure via the internet, and use computing resources without installing and maintaining them on-premises. 
+
+What is Cloud Computing?  
+
+Digital transformation is the change associated with the application of digital technology in all aspects of society. Cloud adoption is the way in which businesses implement digital transformation.
+
+Cloud presents many benefits, including greater agility, speed to market, and improved efficiency. Cloud can open the door to enhanced user experiences and new markets. But only a small percentage of workloads have made it to the cloud. Why? Because the remaining core business workloads are harder to move, share dependencies, and require a more thoughtful and holistic approach.
+
+You need to transform to keep up with the pace of modern environments, considering factors such as dynamic market conditions, speed of technology, faster and leaner competition, and ubiquitous innovation. And the starting point needs to meet you where you are on your journey. 
+
+Image showing a person with applications in the cloud, business connected.
+Cloud computing, sometimes referred to simply as “the cloud,” is the use of computing resources — servers, database management, data storage, networking, software applications, and special capabilities such as blockchain and artificial intelligence (AI) — over the internet, as opposed to owning and operating those resources yourself, on-premises.
+
+Compared to traditional IT, cloud computing offers organizations a host of benefits: the cost-effectiveness of paying for only the resources you use; faster time to market for mission-critical applications and services; the ability to scale easily, affordably and — with the right cloud provider — globally; and much more (see “What are the benefits of cloud computing?” below). And many organizations are seeing additional benefits from combining public cloud services purchased from a cloud services provider with private cloud infrastructure they operate themselves to deliver sensitive applications or data to customers, partners and employees.
+
+Increasingly, “cloud computing” is becoming synonymous with “computing.” For example, in a 2019 survey of nearly 800 companies, 94% were using some form of cloud computing. Many businesses are still in the first stages of their cloud journey, having migrated or deployed about 20% of their applications to the cloud, and are working out the unique security, compliance, and geographic implications of moving their remaining mission-critical applications. But move they will: Industry analyst Gartner predicts that more than half of companies using cloud today will move to an all-cloud infrastructure by next year (2021). 
+
+Watch our expert summarize this topic (you can use the picture-in-picture option and scroll down)
+
+
+2. What are the key capabilities of cloud computing? 
+
+Thanks to its speed, scale, and capacity, the cloud offers more functionality with more automation than nearly every on-premises solution.
+
+Cloud Capabilities 
+
+
+Cloud is built around services
++
+
+Cloud is automated
++
+
+Cloud (usually) oversees your networking
++
+Image showing a person using mobile to book cab successfully.
+If the Cloud was a Rental Car 
+
+1) Rental cars are available when and where you need them. 
+
+
+Click to flip
+When we fly somewhere to go on vacation, we usually rent a car. It is very easy to do, and in most areas in the United States, you need a car in order to get around. When we go skiing in Colorado, we rent a car. When we go to Michigan in the summer, we rent a different one. It doesn’t matter if the cars are provided by different rental car companies; they serve the same purpose and are designed to do the same thing. Very similar to cloud computing, we can access the computing resources we need when and where we need them. 
+
+
+Click to flip
+2) When you rent a car, you pay only for the time you use it. 
+
+
+When we travel to these various cities, obviously it doesn’t make sense to buy a car in each one of them. We don’t need a car all the time, so we don’t want to own it all the time. When we have these temporary needs, we rent a car for the location and time that we need it, without being required to buy and maintain it permanently. In a typical cloud computing environment, it works the same way; companies pay only for what they actually use. Instead of saving the cost of buying and maintaining a car, they are saving the money required to buy large computers. 
+
+
+3) Booking a rental car is easy to do by yourself. 
+
+
+Before we go on a trip, we never actually call and talk to a person at the rental car company to reserve a rental car. All of the rental car companies have websites designed for you to enter the type of car you need, where you want to pick it up, and for what time period you want to use the car. This same self-service method is used for cloud computing. Companies can log into websites to request the specific computer resources that they need. 
+
+
+4) The rental car company has a large number of vehicles that it can rent, and can buy more cars to rent if there are consistently many requests. 
+
+
+Car rental companies have many types of cars that they rent out, but effectively, the cars all serve the same purpose: they get you from point A to point B. However, there is a difference between a compact car and a luxury SUV. To account for this, rental car companies have the flexibility to offer various prices for various car sizes. They also have the ability to provide a higher class car than reserved. This allows them to have a smaller total number of cars than what would be needed if they had to keep a specific number of each class of cars. This practice is like grouping a large number of computers together to form a cloud. The computers might be different models or have different sizes of hardware, but when you group them all together into a resource pool, you ensure you have enough power to go around. 
+
+
+5) You can rent a different type of car for different situations. 
+
+
+When you go to the beach, you rent a convertible. When you go skiing, you rent something with an all-wheel drive and a ski rack. When you are driving a long distance, you select something that gets good gas mileage. Each one of these vehicles would likely have a different cost associated with them. Similarly, in cloud computing, you can select different cloud services to fit your various needs. You could select a cloud service with a lot of resources behind it for a very processing-intensive need task, or you could select a cheaper cloud service if you need fewer resources. In cloud terminology, this is sometimes referred to as being “Fit for Purpose.” 
+
+
+6) You aren’t responsible for maintaining a rental car. 
+
+
+Oil changes, tire rotations, and changing the spark plugs are all things that you don’t have to worry about when you are renting a car. The rental car company handles all of these maintenance issues so you don’t have to. Realistically, this is built into the price of renting the car, but for the renter, it is worth it to have that peace of mind. Just as rental car providers maintain their fleet, cloud providers maintain the hardware and software running the cloud platform, so that the cloud consumers don’t need to worry about it. 
+
+
+7) If your rental car breaks down or you have an accident, the rental car company will bring you a new car. 
+
+
+They would also take care of driving or towing the original car away. Something similar happens in a cloud environment. If something happens to your cloud instance, the cloud provider can very quickly and easily create a new instance for you. This ability to quickly stand up to new services after a problem is referred to as disaster recovery. 
+
+
+8) If you are traveling with a big group you can rent multiple cars. 
+
+
+Sometimes my wife and I go on vacation with a group of friends. Between all the people and luggage, there isn’t enough room in one car (even a big one). Fortunately, rental car companies have many cars available to rent, and when we have this increased demand, we can rent multiple cars. In cloud computing, this is referred to as elasticity. When we need additional resources (or cars) we can rent them. When we no longer need the additional space, we can return the car to the provider and no longer need to pay for it. 
+
+
+Why it matters? 
+Cloud computing offers many advantages over traditional, """"On-prem"""" IT architecture. With cloud, an organization has access to centralized servers and software without the need for a complex IT staff to program, secure, and maintain it. Cloud is also automated, providing you with access to its services on-demand. This allows organizations to scale up or down quickly as their business needs fluctuate.   
+
+Summary
+
+1
+
+1
+Cloud computing, sometimes referred to simply as “the cloud,” is the use of computing resources — servers, database management, data storage, networking, software applications, and special capabilities such as blockchain and artificial intelligence (AI) — over the internet, as opposed to owning and operating those resources yourself, on-premises. 
+
+2
+
+2
+Cloud has many capabilities, including:
+
+Cloud is built around specific services 
+Cloud is automated
+Cloud oversees your networking 
+Next 
+
+We are going to take a look at several of the key benefits that cloud computing can offer organizations. 
+
+Sources:
+[1] Anderson, Erik. IBM. How to Explain Cloud to Your Spouse. February 1, 2013. 
+[2] U.S. General Services Administration. Cloud Information Center. Cloud Capabilities.""","IBM Cloud is a full-stack cloud platform that spans public, private and hybrid environments. Cloud adoption is the way in which businesses implement digital transformation. Cloud presents many benefits, including greater agility, speed to market, and improved efficiency. Cloud can open the door to enhanced user experiences and new markets. But only a small percentage of workloads have made it to the cloud. Why? Because the remaining core business workloads are harder to move, share dependencies, and require a more thoughtful and holistic approach. What are the benefits of Cloud Computing?
+Flexibility - Users can scale services to fit their needs, customize applications and access cloud services from anywhere with an internet connection. 
+
+Efficiency - Enterprise users can get applications to market quickly, without worrying about underlying infrastructure costs or maintenance. 
+
+Strategic value - Cloud services give enterprises a competitive advantage by providing the most innovative technology available."
+Artificial Intelligence,"What is Artificial Intelligence? How do define Artificial Intelligence? Within emerging technologies, what is artificial intelligence?","Watson is IBM’s suite of enterprise-ready Artificial Intelligence (AI) services, applications, and tooling.
+
+Why IBM Watson?
+Build your competitive advantage with Artificial Intelligence
+
+Watson helps you unlock the value of your data in entirely new, profound ways. By freeing users from repetitive tasks, you can empower your teams to focus on more creative, higher-value work. With insights from Watson, you can predict and shape future business outcomes, while rethinking your practices and workflows. With Watson, you have the AI platform for business.
+Understand: with Watson, you can analyze and interpret all of your data, including unstructured text, images, audio, and video.
+
+Reason: with Watson, you can provide personalized recommendations by understanding a user’s personality, tone, and emotion.
+
+Learn: with Watson, you can utilize machine learning to grow the subject matter expertise in your apps and systems.
+
+Interact: with Watson, you can create chatbots that can engage in dialog.
+"". ""AI-powered Solutions
+Unlocks the value in your organization with AI. Change how your employees work and redefine the way your business operates
+Do you want to learn about our training options?
+Learn More
+What is Watson?
+IBM’s portfolio of business-ready tools, applications and solutions, designed to reduce the costs and hurdles of AI adoption while optimizing outcomes and responsible use of AI.
+Why Watson?
+Operationalize AI and transform how work gets done with our proven capabilities and experience with +100 million users.
+Maximize Watson with IBM Cloud Paks
+An open, faster, more secure way to move more workloads to cloud and AI
+
+IBM Cloud Paks give developers, data managers and administrators an open environment to quickly build new cloud-native applications, modernize existing applications, and extend the AI capabilities of IBM Watson into their business in a consistent manner across multiple clouds.
+
+Explore Cloud Pak Training and Credentials 
+Choose a solution area you are interested in
+AI & Machine LearningExplore Training
+IBM WatsonExplore Training
+IBM Cloud PaksExplore Training
+AI role-based learning
+Our role-based learning is designed to enhance your skills in the marketplace. Progressing through the three levels of our role-based learning paths will help you earn the skills required to compete in this ever evolving, fast paced world of AI.
+
+All of our role-based learning starts with an Associate level, comprised of free learning to get you started. The Professional and Advanced levels are offered in two delivery options: Live Delivery or Digital as part of a paid subscription.
+Did you know that you can get all the training you want and save with a subscription?
+Learn More
+badge image
+Machine Learning Specialist
+Build Machine Learning skills to create and build AI solutions, build foundational knowledge and expand to more advanced topics.
+Explore learning path
+badge image
+Data Scientist with IBM Watson
+Build skills to discover the use of IBM Watson to build AI solutions, build foundational knowledge and expand to more advanced topics.
+Coming Soon
+badge image
+AI Specialist
+Learn essential AI skills to create and build AI solutions, build foundational knowledge and expand to more advanced topics.
+Coming Soon
+
+Work with an expert
+Data and AI Learning from IBM is developed by data scientists and technical experts, grounded in open source, design thinking, and advanced technology. Our in-depth learning is flexibly delivered how, when, and where you want it.""","Artificial Intelligence (AI) is all around us, from self-driving cars, digital assistants, rideshare apps, banking apps, and so much more. It is the simulation of human intelligence using machines. Experts say AI will change 100% of jobs over the next 10 years, but there is a fear that the next generation isn’t prepared for the shift to AI. "
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
