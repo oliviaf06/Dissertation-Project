@@ -1,0 +1,1453 @@
+topic,course_name,page_number,module_name,module_no,page_title,page_type,res_content,link,Unnamed: 9
+IBM Cloud,Journey to Cloud: Envisioning your Solution,21,Module 3 - Deploy a Pilot Application in IBM Code Engine,2,Summary & Resources,text,"Module 3
+
+Reflecting on what we learned from this lecture and planning the work ahead
+
+Summary
+
+1
+
+1
+An MVP is the least amount of design, development, and infrastructure that is needed to prove that your proposed solution meets the users' needs. 
+
+2
+
+2
+Understanding your end-user through Enterprise Design Thinking practices allows you to form a data-driven hypothesis about what features your MVP should include. 
+
+3
+
+3
+After you define the MVP, implement just enough architecture so the team can implement the solution. 
+
+4
+
+4
+Using IBM Code Engine we created a simple MVP for an airline application that showcased the UX design as well as a few key features that will be included in the full development cycle. This allowed us to practice the Fail Fast philosophy of development. That is if you are going to fail, do so where the risk is minimized and lessons can be quickly learned to improve the design. 
+
+Resources
+
+1. Featured Resources
+
+The following resources were used to develop the material included in this module: 
+
+Image of The Cloud Adoption playbook
+IBM Research Paper 
+
+The Cloud Adoption Playbook: Proven Strategies for Transforming Your Organization with Cloud 
+
+
+Proven Strategies for Transforming Your Organization with Cloud .pdf
+7.9 MB
+2. Additional Resources
+
+The following resources are complementary material to those provided in this lecture.
+
+IMPORTANT: You don't need to access the material included below to complete this course, but just in case you are eager to go beyond the boundaries of the content included in this course, below are some additional resources which you can pursue to learn more.
+
+The URLs included above are pointing to resources hosted outside our domain and beyond our control. Therefore that material is provided as-is and no support will be given if the links are removed from public access by the content owners.
+
+List of resources
+
+1) Create a Minimal Viable Product
+
+https://www.ibm.com/garage/method/practices/think/practice_minimum_viable_product/
+
+2) What are Microservices?
+
+https://www.ibm.com/cloud/learn/microservices
+
+3) Working with Apps in Code Engine
+
+https://cloud.ibm.com/docs/codeengine?topic=codeengine-application-workloads",https://keyskill-clms.comprehend.ibm.com/pluginfile.php/131656/mod_tincanlaunch/content/index.html?endpoint=https%3A%2F%2Fcars-us.comprehend.ibm.com%2Fdata%2FxAPI%2F&auth=Basic%20YTVkZjAwN2I5M2RiN2QwOTJiYjk5NGI2NThkMzc4Njc1MjJhMzNmODo4NTQ0ZDE3OGE3MTJmOGYwMjc3YTcxNWQzMTM4OGZmY2RjYmYzMTU0&actor=%7B%22objectType%22%3A%22Agent%22%2C%22name%22%3A%22Olivia%20Fossali%22%2C%22mbox%22%3A%22mailto%3Aolivia.fossali.22%40ucl.ac.uk%22%7D&registration=a25d90fd-ba18-48bc-854f-0a826ca3519a&activity_id=http%3A%2F%2FRH-FND-2021-R0#/lessons/bIS67OdoiyJ8QnXYLq0ivpdTasl2jPc_,
+Data Science,Getting Started with Enterprise Data Science,19,Module 2 - Data Science on the Cloud,2,Summary & Resources,text,"Module 2
+
+Reflecting on what we learned from this lecture and planning the work ahead
+
+Summary
+
+1
+
+1
+Data Science Cloud Platforms offer a unified experience, enabling multidisciplinary teams across the organization to collaborate.
+
+2
+
+2
+The benefits of a data science integrated environment on the cloud are:
+
+Allows different roles to use popular statistical libraries
+Seamlessly runs experiments to build custom models that solve business problems.
+Use techniques such as Machine Learning or Deep Learning to validate the success of the trained models.
+Easily export the information into data visualizations to depict insights to sponsor users
+3
+
+3
+Communities are can contribute with datasets, models and enhance collaboration in complex data science projects.
+
+Resources
+
+1. Featured Resources
+
+The following resources were used to develop the material included in this lecture:
+
+The Data Science Lifecycle
+
+Image of IBM smart paper showing The Data Science Lifecycle
+IBM Smartpaper
+
+The Data Science Lifecycle
+
+
+
+IBM Data Science Smartpaper - Data Science Lifecycle.pdf
+1.3 MB
+2. Additional Resources
+
+The following resources are complementary material to those provided in this lecture.
+
+IMPORTANT: You don't need to access the material included below to complete this course, but just in case you are eager to go beyond the boundaries of the content included in this course, below are some additional resources which you can pursue to learn more.
+
+The URLs included above are pointing to resources hosted outside our domain and beyond our control. Therefore that material is provided as-is and no support will be given if the links are removed from public access by the content owners.
+
+List of resources
+
+1) IBM Watson Studio - Demos
+
+https://www.ibm.com/demos/asset/collection/watson-studio
+
+
+2) Watson Studio Details
+
+https://www.ibm.com/cloud/watson-studio",https://keyskill-clms.comprehend.ibm.com/pluginfile.php/138177/mod_tincanlaunch/content/index.html?endpoint=https%3A%2F%2Fcars-us.comprehend.ibm.com%2Fdata%2FxAPI%2F&auth=Basic%20YTVkZjAwN2I5M2RiN2QwOTJiYjk5NGI2NThkMzc4Njc1MjJhMzNmODo4NTQ0ZDE3OGE3MTJmOGYwMjc3YTcxNWQzMTM4OGZmY2RjYmYzMTU0&actor=%7B%22objectType%22%3A%22Agent%22%2C%22name%22%3A%22Olivia%20Fossali%22%2C%22mbox%22%3A%22mailto%3Aolivia.fossali.22%40ucl.ac.uk%22%7D&registration=dc4ea551-2c11-4bc1-a756-625351b21c03&activity_id=http%3A%2F%2FDS-FND-2022-R1#/lessons/0AkUwGa_J528TU6afgFAJ6Esys-o_93p,
+IBM Automation,IBM Robotic Process Automation - Basic I,8,Basic Commands and Variables,7,Variables - Use case I,video,,https://learn.ibm.com/mod/video/view.php?id=152636,
+IBM Automation,IBM Robotic Process Automation - Basic I,23,Advanced Commands,22,Text Manipulation II,video,,https://learn.ibm.com/mod/video/view.php?id=152666,
+IBM Engineering,Quick Start Sessions,5,Quick Starts: Jazz Reporting Services Report Builder for Engineering,5,What is Jazz Reporting Services Report Builder for Engineering?,text,"In any large organization, the engineering environment can be highly fragmented. Many tools are in use, each with its own user interface, database or file system repository and workflow. And yet for a robust engineering environment these tools must be connected. Typical approaches in the past have been point-to-point integrations (which are brittle and prone to breaking as soon as one of the tools in the chain updates to a new version), or an ‘import all the data into a single tool’ approach (which simply doesn't scale).
+
+The advent of Open Services for Lifecycle Collaboration (OSLC) solved this problem by allowing the data to stay where it belongs – in the tools that best know how to author and manage it, whilst allowing that data to be linked to related data in other tools using standard http-based protocols. So, requirements, for example stay in the requirements management tool, but can be connected to design elements in a design tool.
+
+Whilst OSLC allows the creation of these links – it does not address how to view, analyze and report on them – at least not in a holistic way. When a requirement changes – how quickly can you assess the impact of that change? The designs, the test cases, the physical parts that all might be modified or replaced? These kinds of analyses can take days, even weeks to perform and are costly and error-prone.
+
+There are several technologies in the IBM Jazz Platform that can help. Lifecycle Query Engine (LQE) indexes all the linked lifecycle data – and keeps that index up to date. Any tool that conforms to the OSLC Tracked Resource Set (TRS) specification can expose its data for LQE to consume – so it is not limited to the tools on the Jazz platform.
+In the labs, you get to:
+
+Create simple charts
+Create traceability reports
+Create complex reports
+The estimated time to complete the labs is 2 hours.",https://learn.ibm.com/mod/page/view.php?id=166163,
+Data Science,Getting Started with Enterprise Data Science,12,Module 2 - Data Science on the Cloud,2,Topic 1: The need for cloud-based data science,text,"How cloud can add value to data science teams. 
+
+Introduction
+
+In this topic, we'll talk about a few of the drivers, as well as the benefits, of adopting a cloud-based data science strategy. 
+
+Throughout this topic, we will attempt to answer the following questions:
+
+In what ways would cloud services benefit a data science team?
+What are the challenges of closing the gap for data science adoption? 
+1. In what ways would cloud services benefit a data science team? 
+
+Cloud computing is bringing many data science benefits within reach of even small and midsized organizations.
+
+Data science’s foundation is the manipulation and analysis of extremely large data sets; the cloud provides access to storage infrastructures capable of handling large amounts of data with ease. Data science also involves running machine learning algorithms that demand massive processing power; the cloud makes available the high-performance computing that’s necessary for the task. To purchase equivalent on-site hardware would be far too expensive for many enterprises and research teams, but the cloud makes access affordable with per-use or subscription-based pricing.
+
+Cloud infrastructures can be accessed from anywhere in the world, making it possible for multiple groups of data scientists to share access to the data sets they’re working within the cloud—even if they’re located in different countries.
+
+Open source technologies are widely used in data science tool sets. When they’re hosted in the cloud, teams don’t need to install, configure, maintain, or update them locally. Several cloud providers also offer prepackaged tool kits that enable data scientists to build models without coding, further democratizing access to the innovations and insights that this discipline is making available.
+
+""Professionals are putting AI to work to turn our most valuable resource — data — into new ways of doing business.""
+
+Armand Ruiz
+Director, Data Science and AI Elite team
+
+Why are enterprises struggling to capture the value of data? 
+
+They are collecting or sitting on vast amounts of data about their customers, suppliers, equipment, etc. They should be able to use this data to make better decisions, differentiated customer experiences, and better products and services. They also realize that they need to provide their frontline data users access to the data to get the speed that is needed in decision making, interactions, product recommendations, validation, etc. to be competitive.
+
+A table showing details on why enterprises struggle to capture the value of data
+The challenge that data science companies are facing is that:
+
+Data is in silos, hard to find, and difficult to use
+Much of the data is not accessible to the frontline data users because the CDO/Compliance folks have it locked down to ensure it is used properly
+Skills are a challenge
+Infrastructure/Environments to get up and running aren’t there
+What is the solution?
+An integrated development environment for Data Science Projects
+
+Data 
+Governance 
+Skills
+Tools & Infrastructure
+An integrated development environment provides a suite of tools for data scientists, application developers, and subject matter experts, allowing them to collaboratively connect to data, wrangle that data and use it to build, train and deploy models at scale. Successful AI projects require a combination of algorithms + data + teamwork, and a very powerful compute infrastructure.  
+
+Bringing it all together
+
+In the video below your instructor will guide you through these concepts:
+
+
+Watson Studio – making data science a team sport
+
+An image talking about how Watson studio making data sciene a team sport.
+An image talking about how Watson studio making data sciene a team sport.
+An image talking about how Watson studio making data sciene a team sport.
+2. What are the challenges of closing the gap for data science adoption? 
+
+Data Science Cloud Platforms close the gap with a unified experience to create new insights from knowledge contained in the data, enabling multidisciplinary teams across the organization to collaborate.
+
+The problem is a gap between data experts and domain experts.
+
+Only highly technical professionals in IT could organize and make sense of the vast amounts of data.
+Only domain experts could successfully convert data into the rich knowledge needed by AI.
+But domain experts and IT professionals worked in silos, with different tools and no visibility to each others’ work.
+The result was AI that fell short in its promise to augment people’s expertise.
+Bringing it all together
+
+In the video below your instructor will guide you through these concepts:
+
+
+Summary
+
+1
+
+1
+The challenge that data science companies are facing is that:
+
+Data is in silos, hard to find, and difficult to use
+Much of the data is not accessible to the frontline data users because the CDO/Compliance folks have it locked down to ensure it is used properly
+Skills are a challenge
+Infrastructure/Environments to get up and running aren’t there
+2
+
+2
+High specialized jobs combined with working in isolation often resulted in inefficient business practices.
+
+Next 
+
+End-to-end data science with IBM Watson Studio 
+
+Sources:
+[1] IBM Cloud Education. What is Data Science? May 15, 2020. 
+[2] IBM Whitepaper. Data Science is a Team Sport: Do You Have the Skills to be a Team Player? June, 2016.",https://keyskill-clms.comprehend.ibm.com/pluginfile.php/138177/mod_tincanlaunch/content/index.html?endpoint=https%3A%2F%2Fcars-us.comprehend.ibm.com%2Fdata%2FxAPI%2F&auth=Basic%20YTVkZjAwN2I5M2RiN2QwOTJiYjk5NGI2NThkMzc4Njc1MjJhMzNmODo4NTQ0ZDE3OGE3MTJmOGYwMjc3YTcxNWQzMTM4OGZmY2RjYmYzMTU0&actor=%7B%22objectType%22%3A%22Agent%22%2C%22name%22%3A%22Olivia%20Fossali%22%2C%22mbox%22%3A%22mailto%3Aolivia.fossali.22%40ucl.ac.uk%22%7D&registration=dc4ea551-2c11-4bc1-a756-625351b21c03&activity_id=http%3A%2F%2FDS-FND-2022-R1#/lessons/Sw6NZrO_Hf20nGvwHUe9JP2obbO2eYeV,
+IBM Automation,IBM Robotic Process Automation - Basic I,25,Advanced Commands,24,Data and time concepts,text,"IBM Robotic Process Automation supports manipulation of date and time values. You can use date and time variable types to evaluate and store the results.
+
+The following list describes the supported date and time variable types:
+
+Date
+Date Time
+Time Span
+ 
+
+Custom formats
+You can customize the date and time output by defining custom formats. You can convert text to date time and date time to text by using the following formats:
+
+Table with the date time abbreviation characters.
+Time zones
+Some commands have options to choose the time zone to get the date and time:
+
+UTC
+Local
+For more information about subject, see IBM Documentation.",https://learn.ibm.com/mod/hvp/view.php?id=201865,
+IBM Engineering,Quick Start Sessions,14,Quick starts: Improving Requirements Quality with Requirements Quality Assistant,14,What is the Requirements Quality Assistant (RQA),text,"Low-quality requirements are a major source for project and budget overruns and product quality issues. With the advancement of AI and natural language processing, requirements quality inspection can be accelerated and significantly contribute to engineering efficiency.
+
+This Quick Start lab is from the perspective of Susan, a requirements engineer, who has written a new set of requirements for the company’s latest product. Susan takes great pride in her work and wants to ensure that the new requirements are written well and will pass an upcoming review process smoothly.
+
+Previously this would have involved setting up meetings with senior members or subject matter experts to look over the work, taking time out of their busy schedules.
+
+But not today – today she can call on Requirements Quality Assistant – or RQA for short. Powered by Watson AI, RQA helps identify potential issues in the requirements – but  also provide guidance on how to fix them.
+
+In the lab, you get to:
+
+Improve the quality of written requirements with advice from Requirements Quality Assistant
+Use changesets to control and compare change in the requirements
+The estimated time to complete the lab is 2 hours.",https://learn.ibm.com/mod/page/view.php?id=165962,
+IBM Engineering,Quick Start Sessions,15,Quick Starts: Extending DOORS Next with JavaScript,15,What is Extending DOORS Next with JavaScript?,text,"IBM Engineering Requirements Management DOORS Next behavior may be extended by creating OpenSocial gadgets that may be added to the Mini Dashboard. OpenSocial is a public specification for creating web applications using standard technologies like HTML, CSS, and JavaScript. DOORS Next provides a JavaScript API that allows the OpenSocial gadget to interact with the requirement data and automate complex operations.
+
+After completing this Quick Start, you will be able to:
+
+►    Add Open Social gadgets to the Mini Dashboard
+
+►    Write Open Social gadgets for DOORS Next
+
+►    Add Open Social gadgets to the widget catalog",https://learn.ibm.com/mod/page/view.php?id=214855,
+Data Science,Getting Started with Enterprise Data Science,18,Module 2 - Data Science on the Cloud,2,Topic 7: Tools to support the Data  Science lifecycle - Production Phase,text,"Exploring the data journey within the production phase of the data science lifecycle 
+
+Introduction
+
+In this topic, we'll explore the 3 stages that make up the production phase of the data science lifecycle.
+
+Throughout this topic, we will attempt to answer the following questions:
+
+Describe each of the following steps within the production phase of the data science lifecycle:
+a. model implementation
+b. model deployment
+c. model management 
+1. Describe the three main steps of the production phase within the data science lifecycle. 
+
+The production phase includes the model implementation, model deployment, and model management stages. 
+
+This phase in the data science project is focused on model testing through environmental exposure. Here is where the data science team can validate the level of accuracy of the model developed and trigger a loop-back event for model optimization. 
+
+Production phase
+
+An image showing the Production Phase details.
+Model implementation
+
+Once you've built and chosen your model, this stage helps you evaluate and understand its quality to ensure it fully addresses the business problem.
+
+An image showing the Production Phase details.
+Model deployment
+
+Upon development and approval by business sponsors, you're ready to deploy your model into the production environment or a comparable test environment.
+
+An image showing the Production Phase details.
+Model management
+
+Model management must be a continuous process to ensure optimal performance over time. This stage helps you monitor model creation, use and decay.
+
+Model implementation 
+
+Improve your model's performance by visualizing the fit between the model and data using the model visualization capabilities of IBM SPSS® Modeler.
+
+A dashboard showing tree diagram
+Your models have been built, and you've selected the best one. Before actual deployment, however, you need to evaluate your model to understand its quality and ensure that it fully addresses the business problem. Model implementation entails computing various diagnostic measures and other outputs such as tables and graphs, enabling the data scientist to interpret the model's quality and its efficacy in solving the problem.
+
+For a predictive model, data scientists use a testing set that is independent of the training set but follows the same probability distribution and has a known outcome. The testing set is used to evaluate the model so it can be refined as needed. Sometimes the final model is applied also to a validation set for a final assessment.
+
+Data scientists may also assign statistical significance tests to the model as further proof of its quality. This additional proof may be instrumental in justifying model implementation or taking actions when the stakes are high-such as an expensive medical protocol or a critical airplane flight system.
+
+Model Deployment
+
+Once your model is ready, deploy and score it with the available Watson Machine Learning service.
+
+A dashboard showing Model deployment in production phase.
+Once a satisfactory model has been developed and is approved by the business sponsors, you are ready to deploy it into the production environment or a comparable test environment. 
+
+Deploying a model into an operational business process is usually an IT function, although it can involve additional groups. IT departments often have development, testing, and staging environments. However, the process is not as simple as handing the model off to your IT team. Testing the model first is necessary to identify any dependencies in the production environment. In addition, data science teams need to ensure models receive the correct production data and send the scores to the right place and that the system must be set up for monitoring and scalability.
+
+Questions to ask at this stage of the process include:
+
+What data does the model expect to ingest and produce?
+What infrastructure is required to run this model at scale?
+Does the model have everything it needs to execute?
+How easy is it to identify points of failure if the model is not running properly?
+What is the feedback process from the production users to the Data Science Team?
+Models are normally deployed in a limited way until their performance has been fully evaluated. Deployment may be as simple as generating a report with recommendations or as involved as embedding the model in a complex workflow and scoring process managed by a custom application. 
+
+Model management
+
+Compare runs and conduct model hyperparameter optimization easily with deep learning experiments.
+
+A dashboard showing Model management in production phase.
+During deployment and integration of modeling results, model management must be a continuous process to ensure optimal performance over time. This means knowing exactly where each model is in the lifecycle, how old the model is, who developed it, and who is using it for which application. 
+
+Model version control, which includes event logging and change tracking to understand how the model evolves over time, is another critical requirement.Data science must also be concerned with model decay and continuously gather metrics to determine when a model should be refreshed or replaced. For example, a model deployed to increase customer retention among high-value customers will need to be revised once a level of retention is reached.
+
+Bringing it all together
+
+In the video below your instructor will guide you through these concepts:
+
+
+Summary
+
+1
+
+1
+The production phase includes the Model implementation, model deployment, and model management stages. This phase in the data science project is focused on model testing through environmental exposure. 
+
+2
+
+2
+Model implementation entails computing various diagnostic measures and other outputs such as tables and graphs, enabling the data scientist to interpret the model's quality and its efficacy in solving the problem. 
+
+3
+
+3
+After development and implementation comes the process of running the model through a series of extensive tests and finally making it ready for production. 
+
+Next
+
+Module 2: Summary & Resources
+
+Sources:
+[1] IBM Research. The Data Science Lifecycle: From experimentation to production-level data science.
+[2] IBM Cloud. IBM Watson Studio.",https://keyskill-clms.comprehend.ibm.com/pluginfile.php/138177/mod_tincanlaunch/content/index.html?endpoint=https%3A%2F%2Fcars-us.comprehend.ibm.com%2Fdata%2FxAPI%2F&auth=Basic%20YTVkZjAwN2I5M2RiN2QwOTJiYjk5NGI2NThkMzc4Njc1MjJhMzNmODo4NTQ0ZDE3OGE3MTJmOGYwMjc3YTcxNWQzMTM4OGZmY2RjYmYzMTU0&actor=%7B%22objectType%22%3A%22Agent%22%2C%22name%22%3A%22Olivia%20Fossali%22%2C%22mbox%22%3A%22mailto%3Aolivia.fossali.22%40ucl.ac.uk%22%7D&registration=dc4ea551-2c11-4bc1-a756-625351b21c03&activity_id=http%3A%2F%2FDS-FND-2022-R1#/lessons/2paXLIqTKX2roLGmHT99m_ap010Doky5,
+IBM Engineering,Overview,0,IBM Engineering,0,What is IBM Engineering,text,"What is IBM Engineering?
+IBM Engineering Lifecycle Management (ELM) is the most comprehensive solution on the market for system and software development. It covers the key disciplines of the engineering lifecycle: requirements management, system and software modeling, workflow management, and test planning and execution. The ELM solution utilizes  artificial intelligence (AI) and analytics to help teams design and develop software-intensive products and systems. IBM Engineering is open by design, offering Open Services for Lifecycle Collaboration (OSLC) interfaces to integrate with other solutions so that it can be the system of record based on federated, linked data from across the development team.
+
+Where is it used?
+
+ELM is used to develop and deliver complex products that have to comply with industry and/or government regulations, and that requires close collaboration across diverse teams which may include subcontractors.  These types of products are commonly found in Aerospace and Defense (A&D), automotive, medical devices, and the financial services markets. Some large public infrastructure projects, such as extending rail lines or building new ports also benefit from the capabilities that ELM offers.
+
+What are the key features of IBM Engineering Lifecycle Management?
+Supports collaborative team development across all development functions and geographically distributed teams
+Supports implementation of industry standards and regulatory requirements into the development process
+Enables full lifecycle traceability of all requirements, design and test data
+Uses AI to improve the quality of requirements
+Supports reuse of requirements, design data and processes to support delivery of multiple product versions and variants
+Enables visual modeling, simulation and testing of architectures and design to optimize designs early in the development process
+Provides customizable reporting and dashboards
+Supports full change impact assessment and change management from requirements through testing
+Enables extensibility through open standards such as OSLC
+Enables analysis of data to improve decision-making
+Promotes continuous improvement through the automation of best practices
+Enables end-to-end management of the development lifecycle
+Courseware
+Software
+Resources
+Quick Start Sessions
+Learn how to use IBM Engineering tools. Quick Starts are short, focused, introductory hands-on labs designed to take less than two hours to complete.
+
+The IBM Engineering Lifecycle Management solutions includes:
+Engineering Requirements Management DOORS Next - Define, manage and analyze requirements.  Link requirements to system and software models, work tasks, test plans and test results.  Analyze the impact of potential requirement changes across the entire development team.
+
+Engineering Requirements Quality Assistant - Use AI to improve the quality of requirements based on the INCOSE Guidelines for Writing Good Requirements
+
+Engineering Systems Design Rhapsody - Analyze and simulate your system and software using  the Systems Modeling Language (SysML).  Generate software from the software models.  Link system and software models to requirements.
+
+Engineering Workflow Management - Plan, assign and manage tasks across the development team.  Monitor project status.
+
+Engineering Test Management - Create and execute test plans and record results. Manage test environments.  Link test plans and test results to requirements.
+",https://www.ibm.com/academic/topic/engineering,
+IBM Automation,IBM Robotic Process Automation - Basic I,4,About IBM Robotic Process Automation Studio,3,IBM Robotic Process Automation Language,video,,https://learn.ibm.com/mod/video/view.php?id=152629,
+IBM Automation,IBM Robotic Process Automation - Basic I,20,Advanced Commands,19,List manipulation,video,,https://learn.ibm.com/mod/video/view.php?id=152658,
+IBM Cloud,Journey to Cloud: Envisioning your Solution,5,Module 1 - Digital Transformation with Cloud Computing,1,Topic 2: What is Cloud,text,"
+Introduction to Cloud Computing and its capabilities   
+
+Introduction
+
+In this topic, we'll define cloud computing and discuss its capabilities and benefits in a business context. 
+
+Throughout this topic, we will attempt to answer the following questions: 
+
+What is cloud computing?
+What are the capabilities of the cloud?
+1. What is cloud computing? 
+
+Cloud computing transforms IT infrastructure into a utility: It lets you ‘plug into' infrastructure via the internet, and use computing resources without installing and maintaining them on-premises. 
+
+What is Cloud Computing?  
+
+Digital transformation is the change associated with the application of digital technology in all aspects of society. Cloud adoption is the way in which businesses implement digital transformation.
+
+Cloud presents many benefits, including greater agility, speed to market, and improved efficiency. Cloud can open the door to enhanced user experiences and new markets. But only a small percentage of workloads have made it to the cloud. Why? Because the remaining core business workloads are harder to move, share dependencies, and require a more thoughtful and holistic approach.
+
+You need to transform to keep up with the pace of modern environments, considering factors such as dynamic market conditions, speed of technology, faster and leaner competition, and ubiquitous innovation. And the starting point needs to meet you where you are on your journey. 
+
+Image showing a person with applications in the cloud, business connected.
+Cloud computing, sometimes referred to simply as “the cloud,” is the use of computing resources — servers, database management, data storage, networking, software applications, and special capabilities such as blockchain and artificial intelligence (AI) — over the internet, as opposed to owning and operating those resources yourself, on-premises.
+
+Compared to traditional IT, cloud computing offers organizations a host of benefits: the cost-effectiveness of paying for only the resources you use; faster time to market for mission-critical applications and services; the ability to scale easily, affordably and — with the right cloud provider — globally; and much more (see “What are the benefits of cloud computing?” below). And many organizations are seeing additional benefits from combining public cloud services purchased from a cloud services provider with private cloud infrastructure they operate themselves to deliver sensitive applications or data to customers, partners and employees.
+
+Increasingly, “cloud computing” is becoming synonymous with “computing.” For example, in a 2019 survey of nearly 800 companies, 94% were using some form of cloud computing. Many businesses are still in the first stages of their cloud journey, having migrated or deployed about 20% of their applications to the cloud, and are working out the unique security, compliance, and geographic implications of moving their remaining mission-critical applications. But move they will: Industry analyst Gartner predicts that more than half of companies using cloud today will move to an all-cloud infrastructure by next year (2021). 
+
+Watch our expert summarize this topic (you can use the picture-in-picture option and scroll down)
+
+
+2. What are the key capabilities of cloud computing? 
+
+Thanks to its speed, scale, and capacity, the cloud offers more functionality with more automation than nearly every on-premises solution.
+
+Cloud Capabilities 
+
+
+Cloud is built around services
++
+
+Cloud is automated
++
+
+Cloud (usually) oversees your networking
++
+Image showing a person using mobile to book cab successfully.
+If the Cloud was a Rental Car 
+
+1) Rental cars are available when and where you need them. 
+
+
+Click to flip
+When we fly somewhere to go on vacation, we usually rent a car. It is very easy to do, and in most areas in the United States, you need a car in order to get around. When we go skiing in Colorado, we rent a car. When we go to Michigan in the summer, we rent a different one. It doesn’t matter if the cars are provided by different rental car companies; they serve the same purpose and are designed to do the same thing. Very similar to cloud computing, we can access the computing resources we need when and where we need them. 
+
+
+Click to flip
+2) When you rent a car, you pay only for the time you use it. 
+
+
+When we travel to these various cities, obviously it doesn’t make sense to buy a car in each one of them. We don’t need a car all the time, so we don’t want to own it all the time. When we have these temporary needs, we rent a car for the location and time that we need it, without being required to buy and maintain it permanently. In a typical cloud computing environment, it works the same way; companies pay only for what they actually use. Instead of saving the cost of buying and maintaining a car, they are saving the money required to buy large computers. 
+
+
+3) Booking a rental car is easy to do by yourself. 
+
+
+Before we go on a trip, we never actually call and talk to a person at the rental car company to reserve a rental car. All of the rental car companies have websites designed for you to enter the type of car you need, where you want to pick it up, and for what time period you want to use the car. This same self-service method is used for cloud computing. Companies can log into websites to request the specific computer resources that they need. 
+
+
+4) The rental car company has a large number of vehicles that it can rent, and can buy more cars to rent if there are consistently many requests. 
+
+
+Car rental companies have many types of cars that they rent out, but effectively, the cars all serve the same purpose: they get you from point A to point B. However, there is a difference between a compact car and a luxury SUV. To account for this, rental car companies have the flexibility to offer various prices for various car sizes. They also have the ability to provide a higher class car than reserved. This allows them to have a smaller total number of cars than what would be needed if they had to keep a specific number of each class of cars. This practice is like grouping a large number of computers together to form a cloud. The computers might be different models or have different sizes of hardware, but when you group them all together into a resource pool, you ensure you have enough power to go around. 
+
+
+5) You can rent a different type of car for different situations. 
+
+
+When you go to the beach, you rent a convertible. When you go skiing, you rent something with an all-wheel drive and a ski rack. When you are driving a long distance, you select something that gets good gas mileage. Each one of these vehicles would likely have a different cost associated with them. Similarly, in cloud computing, you can select different cloud services to fit your various needs. You could select a cloud service with a lot of resources behind it for a very processing-intensive need task, or you could select a cheaper cloud service if you need fewer resources. In cloud terminology, this is sometimes referred to as being “Fit for Purpose.” 
+
+
+6) You aren’t responsible for maintaining a rental car. 
+
+
+Oil changes, tire rotations, and changing the spark plugs are all things that you don’t have to worry about when you are renting a car. The rental car company handles all of these maintenance issues so you don’t have to. Realistically, this is built into the price of renting the car, but for the renter, it is worth it to have that peace of mind. Just as rental car providers maintain their fleet, cloud providers maintain the hardware and software running the cloud platform, so that the cloud consumers don’t need to worry about it. 
+
+
+7) If your rental car breaks down or you have an accident, the rental car company will bring you a new car. 
+
+
+They would also take care of driving or towing the original car away. Something similar happens in a cloud environment. If something happens to your cloud instance, the cloud provider can very quickly and easily create a new instance for you. This ability to quickly stand up to new services after a problem is referred to as disaster recovery. 
+
+
+8) If you are traveling with a big group you can rent multiple cars. 
+
+
+Sometimes my wife and I go on vacation with a group of friends. Between all the people and luggage, there isn’t enough room in one car (even a big one). Fortunately, rental car companies have many cars available to rent, and when we have this increased demand, we can rent multiple cars. In cloud computing, this is referred to as elasticity. When we need additional resources (or cars) we can rent them. When we no longer need the additional space, we can return the car to the provider and no longer need to pay for it. 
+
+
+Why it matters? 
+Cloud computing offers many advantages over traditional, ""On-prem"" IT architecture. With cloud, an organization has access to centralized servers and software without the need for a complex IT staff to program, secure, and maintain it. Cloud is also automated, providing you with access to its services on-demand. This allows organizations to scale up or down quickly as their business needs fluctuate.   
+
+Summary
+
+1
+
+1
+Cloud computing, sometimes referred to simply as “the cloud,” is the use of computing resources — servers, database management, data storage, networking, software applications, and special capabilities such as blockchain and artificial intelligence (AI) — over the internet, as opposed to owning and operating those resources yourself, on-premises. 
+
+2
+
+2
+Cloud has many capabilities, including:
+
+Cloud is built around specific services 
+Cloud is automated
+Cloud oversees your networking 
+Next 
+
+We are going to take a look at several of the key benefits that cloud computing can offer organizations. 
+
+Sources:
+[1] Anderson, Erik. IBM. How to Explain Cloud to Your Spouse. February 1, 2013. 
+[2] U.S. General Services Administration. Cloud Information Center. Cloud Capabilities. ",https://keyskill-clms.comprehend.ibm.com/pluginfile.php/131656/mod_tincanlaunch/content/index.html?endpoint=https%3A%2F%2Fcars-us.comprehend.ibm.com%2Fdata%2FxAPI%2F&auth=Basic%20YTVkZjAwN2I5M2RiN2QwOTJiYjk5NGI2NThkMzc4Njc1MjJhMzNmODo4NTQ0ZDE3OGE3MTJmOGYwMjc3YTcxNWQzMTM4OGZmY2RjYmYzMTU0&actor=%7B%22objectType%22%3A%22Agent%22%2C%22name%22%3A%22Olivia%20Fossali%22%2C%22mbox%22%3A%22mailto%3Aolivia.fossali.22%40ucl.ac.uk%22%7D&registration=a25d90fd-ba18-48bc-854f-0a826ca3519a&activity_id=http%3A%2F%2FRH-FND-2021-R0#/lessons/2SyMoyHAHbhV2LN_dhnGRw4fAMHO5ewH,
+IBM Cloud,Journey to Cloud: Envisioning your Solution,20,Module 3 - Deploy a Pilot Application in IBM Code Engine,2,Milestone 2: Generate Traffic,text,"
+Testing the Application with a traffic generation simulator 
+
+Introduction
+
+In this topic, we will test the performance of our app using simulated traffic. 
+
+Group of Developers testing the code.
+How to test the MVP solution
+
+Some hypotheses can be tested without any coding, and if that’s the right MVP, of course, we do that. But the Garage has a bias toward building production pilots — we believe the best way to learn is by putting something real in the hands of real users.
+
+Figuring out how to get something valuable into the user’s hands in, typically, six to eight weeks requires as much creative thinking as identifying the big idea. This is why the IBM Garage views Enterprise Design Thinking and Lean Startup as two parts of a single method, not two separate phases of a project.  
+
+In this part of the Lab, we are going to test what we have just done by simulating what it would be like to have many users accessing our ""Bee Travels"" project. This will allow us to watch the number of running instances of the application auto-scale based on the changing amount of traffic.   
+
+Image of cloud developer
+Generate traffic 
+
+Since Code Engine is a fully managed, serverless platform, the number of instances running for each application will auto-scale depending on the maximum number of concurrent requests per instance of incoming traffic to each application. In this part of the code pattern, we are going to generate traffic to the UI application of Bee Travels and watch the number of running instances of the application auto-scale based on the changing traffic. To do this, perform the Simulation captured below.  
+
+
+Image of App developer working on his laptop
+Congratulations 
+
+Without having any knowledge or interaction with the underlying infrastructure of Code Engine, you have successfully completed the following:
+
+Built container images for Node.js and Python microservices
+Created/Deployed a workload to Code Engine consisting of public and private microservices
+Secured an external application
+Independent auto-scaling on a per-microservice basis
+All of this was completed by only specifying desired runtime semantics (ex. whether to scale or not) and Code Engine took care of the rest. 
+
+Summary
+
+1
+
+1
+We used the IBM load generation tool to generate traffic to our application. This showed us the auto-scaling component of Code Engine.
+
+Next 
+
+In Summary & Resources, we'll review the key concepts and provide you with a few additional resources to help you learn more about the topics covered in this module. 
+
+Sources:
+[1] IBM Cloud. IBM Code Engine. <website> Accessed on November 9, 2021. ",https://keyskill-clms.comprehend.ibm.com/pluginfile.php/131656/mod_tincanlaunch/content/index.html?endpoint=https%3A%2F%2Fcars-us.comprehend.ibm.com%2Fdata%2FxAPI%2F&auth=Basic%20YTVkZjAwN2I5M2RiN2QwOTJiYjk5NGI2NThkMzc4Njc1MjJhMzNmODo4NTQ0ZDE3OGE3MTJmOGYwMjc3YTcxNWQzMTM4OGZmY2RjYmYzMTU0&actor=%7B%22objectType%22%3A%22Agent%22%2C%22name%22%3A%22Olivia%20Fossali%22%2C%22mbox%22%3A%22mailto%3Aolivia.fossali.22%40ucl.ac.uk%22%7D&registration=a25d90fd-ba18-48bc-854f-0a826ca3519a&activity_id=http%3A%2F%2FRH-FND-2021-R0#/lessons/DURwZQ4AAxbAG8ij6qMUZGpP2XObRJ89,
+IBM Engineering,Quick Start Sessions,13,Quick starts: Publishing for IBM Engineering Requirements Management DOORS,13,What is Publishing for IBM Engineering Requirements Management DOORS?,text,"IBM Engineering Lifecycle Optimization – Publishing (PUB), formerly called IBM Rational Publishing Engine (RPE) automates document generation from IBM solutions and select third-party tools. You can use PUB to automate the generation of documents for ad hoc use, formal reviews, contractual obligations or regulatory compliance.
+
+PUB provides:
+
+Documents and reports: Generate high-quality documents with flexible formatting as well as composite reports containing data from multiple sources. Reports may be scheduled or invoked on demand.
+Outputs: Support multiple output formats and concurrent document generation to multiple target formats from a single template.
+Template editor: A graphical template editing environment for custom report design.
+Data sources: Extract data from a single source or combine data from multiple sources for cross-domain reporting
+PUB consists of the following applications:
+
+PUB Launcher – a standalone application for generating reports using predefined templates
+Engineering Document Generation (EDG) – wizard-based document generation from within the tools themselves (for example from within Rhapsody, DOORS, DOORS Next and so on)
+PUB Document Studio – A graphical environment for designing and testing templates
+PUB Document Builder – A web-based application that allows dynamic creation of reports by assembling templates, as well as automated, scheduled document generation (Note that this is not available for DOORS)
+In the lab, you get to:
+
+Generate documents from DOORS using EDG
+Design Templates to report on requirements in any module or view
+Elevate Attributes and Views so reports can be designed for specific modules
+Utilize filters defined in DOORS to filter the data in the generated documents
+The estimated time to complete the labs is 2 hours.",https://learn.ibm.com/mod/page/view.php?id=165893,
+Data Science,Getting Started with Enterprise Data Science,27,Module 3 - Detecting Pattrns of Fraud wit Data Analytics,3,Quiz,text,,https://keyskill-clms.comprehend.ibm.com/pluginfile.php/138177/mod_tincanlaunch/content/index.html?endpoint=https%3A%2F%2Fcars-us.comprehend.ibm.com%2Fdata%2FxAPI%2F&auth=Basic%20YTVkZjAwN2I5M2RiN2QwOTJiYjk5NGI2NThkMzc4Njc1MjJhMzNmODo4NTQ0ZDE3OGE3MTJmOGYwMjc3YTcxNWQzMTM4OGZmY2RjYmYzMTU0&actor=%7B%22objectType%22%3A%22Agent%22%2C%22name%22%3A%22Olivia%20Fossali%22%2C%22mbox%22%3A%22mailto%3Aolivia.fossali.22%40ucl.ac.uk%22%7D&registration=dc4ea551-2c11-4bc1-a756-625351b21c03&activity_id=http%3A%2F%2FDS-FND-2022-R1#/lessons/32zAa6OQTrUxRuycX3fZ5evP4yMEUBL4,
+IBM Engineering,Quick Start Sessions,18,Quick Starts: IBM Engineering Workflow Management and Git,18,What is IBM Engineering Workflow Management and Git?,text,"IBM Engineering Workflow Management, or EWM (formerly called IBM Rational Team Concert) is a team collaboration tool that integrates development tasks, including:
+
+Planning and task management
+Change management
+Defect tracking
+Source code control
+Build automation
+Model management (Rhapsody Model Manager is an extension to EWM)
+Reporting
+
+EWM also integrates with many commonly used tools. In this Quick Start you will see how EWM integrates with Git (and other flavors such as GitHub, GitLab, Bitbucket etc) for linking work items to Git Commits, imposing process control on Git operations and using EWM and Git along with Jenkins for build management.",https://learn.ibm.com/mod/page/view.php?id=170868,
+IBM Cloud,Journey to Cloud: Envisioning your Solution,14,Module 2 - Cloud Adoption Journey : Ideation Practices,2,Topic 3: Embracing User-Centric Design,text,"Adopting a User-centric mindset with Enterprise Design Thinking
+
+Introduction
+
+In this topic, we'll talk about how to use Enterprise Design Thinking practices to create a minimum viable product. 
+
+Throughout this topic, we will attempt to answer the following questions:
+
+What is the general process for conducting an Enterprise Design Thinking session?
+How can EDT processes be applied to creating business solutions?
+What are the three components for implementing a design?
+How to put all this into practice through a real-life industry example?
+1. What is the general process for conducting an Enterprise Design Thinking session? 
+
+Design thinking is a human-centered, iterative approach to problem-solving.
+
+Instead of defining a project by its structural components or technological requirements, design thinking focuses on how an idea might help an end-user achieve specific goals.   
+
+Image showing Think logo
+Whenever I start a Design Thinking workshop with executives or start-ups they all roll their eyes… as in “Really, we just want to build something, we want Cloud!” My response is always, “Yes, but do you know who you are building it for and why?”
+
+“Instead of building complex architectural diagrams and talking about Cloud like it’s some obscure technology…
+
+Designers actually make it easy so that all parties can truly understand the power of Cloud…by telling a simple story from a user’s perspective focusing first on the problem, not the solution.
+
+Eliane Tozman
+Head of Design for IBM Canada Innovation
+
+Whenever I start a Design Thinking workshop with executives or start-ups they all roll their eyes… as in “Really, we just want to build something, we want Cloud!” My response is always, “Yes, but do you know who you are building it for and why?”
+
+“Instead of building complex architectural diagrams and talking about Cloud like it’s some obscure technology…
+
+Designers actually make it easy so that all parties can truly understand the power of Cloud…by telling a simple story from a user’s perspective focusing first on the problem, not the solution.
+
+Eliane Tozman
+Head of Design for IBM Canada Innovation
+
+What is Enterprise Design Thinking? 
+
+You can't solve a problem without first understanding the problem. In the Think phase of the IBM Garage Method, we conduct discovery practices to help the client team dig deep into the problem domain, align everyone on common goals, and to identify potential problems and bottlenecks. They also help self-assess and understand focused areas of opportunity. 
+
+Here we use Enterprise Design Thinking (EDT) to incrementally deliver (being Agile) awesome solutions. Enterprise Design Thinking is a user-focused approach to innovate and establish brand differentiation that focuses on user-centric outcomes.
+
+As we talked about in module 1, the initial focus is on defining a minimum viable product (MVP), which is the bare-minimum experience that achieves user-centric outcomes. As you build each MVP, your teams play back to your stakeholders to determine whether you’re delivering a product that meets the needs of your target users. This agile approach enables seamless pivots to be made in alignment with achieving desired outcomes. 
+
+IBM Design Thinking 
+
+
+2. How can EDT processes be applied to creating business solutions? 
+
+Important Components of Enterprise Design Thinking 
+
+Enterprise Design Thinking involves several components. But remember this is a general framework for generating ideas, not a pipeline that must be strictly adhered to. Choose the activities that are best for your development team and the end-user.  
+
+
+1. Personas
++
+
+2. Empathy maps
++
+
+3. As-is scenarios maps
++
+
+4. Design ideation and prioritization
++
+
+5. To-be scenario maps
++
+
+6. Wireframe sketches
++
+
+7. Hypothesis-driven design
++
+
+8. Create a Minimum viable product (MVP) 
++
+3. What are the three components for implementing a design? 
+
+Let's say that you think you have a great idea for a new product. Or, maybe you already created a product and your competitors just released an update that ahead of yours. Either way, you need a proven process for innovating and delivering fast. You need Enterprise Design Thinking. 
+
+Implementing Enterprise Design Thinking
+
+Enterprise Design Thinking starts by bringing together a series of traditional design techniques, such as personas, empathy maps, as-is scenarios, design ideation, to-be scenarios, wireframe sketches, hypothesis-driven design, and minimum viable product (MVP) definition. 
+
+Group of people participating in Design thinking workshop
+To these traditional design approaches, Enterprise Design Thinking adds three core practices: hills, playbacks, and sponsor users.  
+
+
+Hills
++
+
+Playbacks
++
+
+Sponsor Users
++
+4. How to put all this into practice through a real-life industry example? 
+
+Case Study
+Episode II
+
+This industry scenario focuses on understanding the role of Enterprise Design Thinking in cloud migration and modernizing customer experiences. 
+
+Understand Users Through Empathy Maps
+
+After the team crafts a Business Opportunity Statement, they can turn their opportunity into an implementable solution. They start by conducting an Enterprise Design Thinking workshop. In the workshop, they will define a minimum viable product (MVP) to fulfill the needs that were defined in the Business Opportunity Statement. 
+
+Design thinling expert placing sticky notes on a white board during design thinking excercisegn thinking excercise
+Aisha
+Design Thinking Expert
+
+The team meets Aisha, our Design Thinking Expert who will introduce them to the process of Enterprise Design Thinking. Aisha explains that at the very heart of Design Thinking is the customer. 
+
+Who are they? 
+What problem (or problems) are they facing in their community, business, or life? 
+How do they react to these problems?
+Empathy maps are ""quick and dirty"" personas. Generally, empathy maps are low–fidelity works in progress that capture and articulate the facets of a representative user as currently understood and viewed by a team. The facets are thinks, feels, says, and does. For example, this empathy map for our persona Rafa, was developed during a design thinking session: 
+
+Empathy Map with sticky notes showing four divisions with headings: Says, Does, Thinks, Feels
+We found that getting to the root of their problem, and the emotion connected with it, provides a starting point, as well as becomes the driver of our innovation. So, how do you get Deep Customer Empathy? By observing and interviewing your customers to find out what they really want.
+
+Follow Aisha as she walks the team through the three Enterprise Design Thinking actvities:
+
+Persona - Make it personal by creating a persona for their end-user. Give them a face, a name, and personality to build empathy.
+Empathy Mapping - Put yourself in the shoes of your end-user by imagining what they ""think"", ""feel"", ""say"", and ""do"" while booking a flight on Acme's current mobile app.
+To-be Scenario - Brainstorm what features your end-user would want to see in the final version of our cloud-based mobile app.
+
+Playback Session
+
+Group of people in discussing in the meeting
+The team then takes these insights back to the stakeholders for the next playback session. The team recommends that a cloud-based mobile app be developed as a first step to moving toward cloud adoption. In this new Agile culture, the development team will deploy a prototype with limited capabilities in order to test how it behaves on the cloud as well as garner feedback gathered during a public beta test of the product. 
+
+Why it matters? 
+The goals of an Enterprise Design Thinking workshop are to define one or more MVP statements and to agree on the steps to progress an MVP or a roadmap of MVPs that align with a larger vision. 
+
+Summary
+
+1
+
+1
+The IBM Garage Method relies heavily on Enterprise Design Thinking, particularly in the planning and development stages, to incrementally deliver awesome solutions (being Agile). 
+
+2
+
+2
+Enterprise Design Thinking is a user-focused approach to innovate and establish brand differentiation that focuses on user-centric outcomes. 
+
+3
+
+3
+Enterprise Design Thinking can be divided into three main checkpoints or processes:
+
+Hills an aspirational end state for users that is motivated by market understanding. 
+Playbacks align your team, stakeholders, and users around the user value that you plan to deliver, rather than project line items. 
+Sponsor Users are people who are selected from your real or intended user group. 
+4
+
+4
+Empathy maps are ""quick and dirty"" personas. Generally, empathy maps are low–fidelity works in progress that capture and articulate the facets of a representative user as currently understood and viewed by a team. The facets are thinks, feels, says, and does.
+
+Next 
+
+In Summary & Resources, we'll review the key concepts and provide you with a few additional resources to help you learn more about the topics covered in this module. 
+
+Sources:
+[1] IBM Cloud. Explore the Garage Methodology. IBM. Accessed October 22, 2021. 
+[2] Pesot, Joe & Platenberg, Sarah. Enterprise Design Thinking. IBM. Accessed October 22, 2021. 
+[3] Platenberg, Sarah. Understand Users Through Empathy Maps. IBM. Accessed October 22, 2021. ",https://keyskill-clms.comprehend.ibm.com/pluginfile.php/131656/mod_tincanlaunch/content/index.html?endpoint=https%3A%2F%2Fcars-us.comprehend.ibm.com%2Fdata%2FxAPI%2F&auth=Basic%20YTVkZjAwN2I5M2RiN2QwOTJiYjk5NGI2NThkMzc4Njc1MjJhMzNmODo4NTQ0ZDE3OGE3MTJmOGYwMjc3YTcxNWQzMTM4OGZmY2RjYmYzMTU0&actor=%7B%22objectType%22%3A%22Agent%22%2C%22name%22%3A%22Olivia%20Fossali%22%2C%22mbox%22%3A%22mailto%3Aolivia.fossali.22%40ucl.ac.uk%22%7D&registration=a25d90fd-ba18-48bc-854f-0a826ca3519a&activity_id=http%3A%2F%2FRH-FND-2021-R0#/lessons/h-EAnUFDj-AeC8Q9o6b0353HF4PspJwT,
+IBM Automation,Fundamentals of IBM Process Mining,1,Fundamentals of IBM Process Mining,0,Course Overview,text," Process Mining
+Welcome, Olivia Fossali!
+My Learning
+(382)
+ 
+316 course completions
+Overview
+Choose a session
+Course details
+Related learning
+Course Overview
+This course introduces you to IBM Process Mining and how to use it to perform process and data analysis. You learn the differences between process mining and task mining, the different types of process mining, use cases, and how process mining is performed. You learn how to use IBM Process Mining to import a data source, map data, and visualize a process. You learn how to plan a process mining project. You learn how to evaluate a process for potential candidates for Robotic Process Automation. You learn advanced data preparation and transformation concepts and how to evaluate a multi-level process for maverick buying patterns. You also leverage the simulation capabilities of the product to simulate a Blueworks Live BPMN process.
+
+The lab environment for this course uses a trial environment. Access to the trial environment is strictly limited to 30 days with no possibility of an extension. Before you enroll, make sure that you can complete the lab within the 30-day period.
+
+Course
+Launch
+Intermediate
+Self-paced with labs
+7 hours
+No cost
+Course code: ZB846G
+Course access: 12 months
+Choose a session
+How would you like to learn? What format fits you best? Choose from the different learning methods to see a list of available sessions for this course offered by our esteemed Global Training Providers and their extended partners.
+
+Read about our Global Training Providers. Learn more
+Currently there are no classes scheduled at this time
+
+Course details
+Audience
+
+This course is intended for business process analysts, data analysts, or technical analysts that use the IBM Process Mining product.
+
+Objectives
+
+Visualize a process and generate the event log
+Understand data quality and data quality issues
+Evaluate maverick buying patterns of a multi-level process
+View the frequency, duration, and cost models of a process
+Import a reference model and perform conformance checking
+Create custom filters and dashboards
+Perform a Diff comparison of two simulation scenarios
+Analyze a process for potential RPA candidates
+Import a BPMN model into IBM Process Mining
+Configure and run simulations on a Blueworks Live BPMN process
+Exercises
+Exercise 1. Evaluating a process for RPA candidates
+Exercise 2. Evaluating maverick buying in a multi-level process
+Exercise 3. Simulating a Blueworks Live BPMN process",https://www.ibm.com/training/course/fundamentals-of-ibm-process-mining-ZB846G,
+Data Science,Getting Started with Enterprise Data Science,11,Module 2 - Data Science on the Cloud,2,About this Module,text,"Module 2 
+Data Science on the Cloud
+
+Introduction
+
+Acquire technical expertise using popular open source data science frameworks including Jupyter notebooks and Python. 
+
+This page covers the following lecture details:
+
+Duration
+Objectives
+Instructor
+Topics
+Skills
+Duration
+
+This lecture can be completed in an average of 60 minutes
+
+Objectives
+
+Upon completing this lecture you should be able to achieve the following objectives:
+
+1
+
+1
+Understand the need for an integrated environment for Data Science Projects 
+
+2
+
+2
+Explore the benefits of Data Science integrated environments hosted on the cloud  
+
+3
+
+3
+Explore how different data science roles participate in the data science lifecycle
+
+4
+
+4
+Understand concepts such as: object storage, data refinery machine learning, visual recognition and model building
+
+5
+
+5
+Evaluate the relationship between popular data science open source frameworks
+
+About the Instructor
+
+Meet the IBM subject-matter expert, who will guide you through this lecture
+
+Image of instructor Dr. Kaoutar El Maghraoui
+
+
+Dr. Kaoutar El Maghraoui
+
+
+
+Principal Research Staff Member, AI Engineering
+
+IBM Research
+
+
+
+
+
+Biography
+
+
+
+Dr. Kaoutar El Maghraoui is a principal research scientist at the IBM T.J Watson Research Center where she is focusing on innovations at the intersection of systems and artificial intelligence (AI). 
+
+
+
+She leads the research agenda of the End-Use experimental AI testbed of the IBM Research AI Hardware Center, a global research hub focusing on enabling next-generation accelerators and systems for AI workloads. 
+
+She co-led IBM’s Global Technology Outlook in 2017 where she contributed to creating IBM’s vision for the future of IT across global labs and business units focusing on IBM’s AI leadership. 
+
+
+
+Kaoutar has co-authored several patents, conferences, and journal publications in the areas of systems research, distributed systems, high-performance computing, and AI. 
+
+ 
+
+
+
+Education
+
+
+
+Kaoutar holds a Ph.D. degree from Rensselaer Polytechnic Institute, USA. 
+
+ 
+
+
+
+Recent Accomplishments
+
+
+
+She received several awards including the Robert McNaughton Award for best thesis in computer science, Best of IBM award in 2021, IBM’s Eminence and Excellence award for leadership in increasing Women’s presence in science and technology, several IBM outstanding technical accomplishments, and 2021 IEEE TCSVC Women in Service Computing award. 
+
+ 
+
+Kaoutar is the global vice-chair of the Arab Women in Computing organization and an avid supporter and volunteer of several women in science and technology initiatives. 
+
+
+
+
+
+Topics
+
+Let's explore below the content of this Module
+
+
+Topic 1: The need for cloud-based data science
++
+
+Topic 2: End-to-end data science with IBM Watson Studio
++
+
+Topic 3: Tools to support the data science lifecycle - Exploration Phase
++
+
+Topic 4: The role of the data analyst in an integrated Cloud environment 
++
+
+Topic 5: The role of the data scientist in an integrated Cloud environment 
++
+
+Topic 6:  The role of the data engineer in an integrated Cloud environment
++
+
+Topic 7: Tools to support the Data Science lifecycle - Production Phase
++
+
+Summary & Resources
++
+
+Quiz
++
+Skills:
+
+Integrated Environment 
+ML Framework
+Development Environment
+Data Sources
+Programming Languages
+Data Munging
+Visualization Tools
+Data Science lifecycle
+IBM Watson Studio
+Data Refinery
+AutoAI ",https://keyskill-clms.comprehend.ibm.com/pluginfile.php/138177/mod_tincanlaunch/content/index.html?endpoint=https%3A%2F%2Fcars-us.comprehend.ibm.com%2Fdata%2FxAPI%2F&auth=Basic%20YTVkZjAwN2I5M2RiN2QwOTJiYjk5NGI2NThkMzc4Njc1MjJhMzNmODo4NTQ0ZDE3OGE3MTJmOGYwMjc3YTcxNWQzMTM4OGZmY2RjYmYzMTU0&actor=%7B%22objectType%22%3A%22Agent%22%2C%22name%22%3A%22Olivia%20Fossali%22%2C%22mbox%22%3A%22mailto%3Aolivia.fossali.22%40ucl.ac.uk%22%7D&registration=dc4ea551-2c11-4bc1-a756-625351b21c03&activity_id=http%3A%2F%2FDS-FND-2022-R1#/lessons/nyj5apcyHmSFjLWHARVgO-7o6qKu4bu9,
+IBM Cloud,Journey to Cloud: Envisioning your Solution,8,Module 1 - Digital Transformation with Cloud Computing,1,Topic 5: Cloud Service Types,text,"
+Exploring the wide-range of IT applications, platforms, and services available on the cloud  
+
+Introduction
+
+In this topic, we'll explain and compare the three most popular cloud computing service models: IaaS, PaaS, & SaaS. 
+
+Throughout this topic, we will attempt to answer the following questions: 
+
+What is Infrastructure as a Service (IaaS) and when would a company likely purchase this cloud service type?
+What is Platform as a Service (PaaS) and when would a company likely purchase this cloud service type?
+What is Software as a Service (SaaS) and when would a company likely purchase this cloud service type?
+1. What is Infrastructure as a Service (IaaS) and when would a company likely purchase this cloud service type?
+
+The cloud offers three major branches of computing power: a traditional data center hardware (infrastructure), the tools and environments needed to build programs, applications, and software (platform), and the consumer-facing apps and software we access with our smart devices (software). 
+
+Understand Cloud Services   
+
+Infrastructure as a Service, Platform as a Service, and Software as a Service are the three most popular types of cloud service offerings that organizations can subscribe to. Collectively, they are often referred to as cloud service models. 
+
+Woman smiling showing a diagram on her laptop
+The phrase 'As a service' refers to the way IT assets are consumed in these offerings - and the essential differences between cloud computing and traditional IT.
+
+In traditional (Legacy) IT, an organization consumes IT assets - hardware, system software, development tools, applications - by purchasing them, installing them, managing them, and maintaining them in its own on-premises data center. While, in cloud computing, the cloud service provider owns, manages, and maintains the assets; the customer consumes them via an Internet connection and pays for them on a subscription or pay-as-you-go basis.
+
+So, the chief advantage of IaaS, PaaS, SaaS, or any 'as a service' solution is economic; a customer can access and scale the IT capabilities it needs for a predictable cost, without the expense and overhead of purchasing and maintaining everything in its own data center, known as on-premise IT or 'On-Prem' for short. But there are additional advantages specific to each of these solutions.
+
+Infrastructure as a Service (IaaS)
+
+Image showing a graphic highlighting Infrastructure as a Service (IaaS)
+IaaS means a cloud service provider manages the infrastructure for you—the actual servers, network, virtualization, and data storage—through an internet connection. The user has access through an API or dashboard and essentially rents the infrastructure. The user manages things like the operating system, apps, and middleware (software that provides common services and capabilities to applications outside of what’s offered by the operating system) while the provider takes care of any hardware, networking, hard drives, data storage, and servers; and has the responsibility of taking care of outages, repairs, and hardware issues. This is the typical deployment model of cloud storage providers.
+
+Typically, IaaS customers can choose between virtual machines (VMs) hosted on shared physical hardware (the cloud service provider manages virtualization) or bare metal servers on dedicated (unshared) physical hardware. Customers can provision, configure and operate the servers and infrastructure resources via a graphical dashboard, or programmatically through application programming interfaces (APIs).
+
+IaaS can be thought of as the original 'as a service' offering: Every major cloud service provider - Amazon Web Services, Google Cloud, IBM Cloud, Microsoft Azure - began by offering some form of IaaS. 
+
+Benefits of IaaS
+
+Compared to traditional IT, IaaS gives customers more flexibility to build out computing resources as needed and to scale them up or down in response to spikes or slowdowns in traffic. IaaS lets customers avoid the up-front expense and overhead of purchasing and maintaining its own on-premises data center. It also eliminates the constant trade-off between the waste of purchasing excess on-premises capacity to accommodate spikes, versus the poor performance or outages that can result from not having enough capacity for unanticipated traffic bursts or growth.
+
+Other benefits of IaaS include:
+
+Higher availability: With IaaS a company can create redundant servers easily, and even create them in other geographies to ensure availability during local power outages or physical disasters.
+Lower latency improved performance: Because IaaS providers typically operate data centers in multiple geographies, IaaS customers can locate apps and services closer to users to minimize latency and maximize performance. Improved responsiveness. Customers can provision resources in a matter of minutes, test new ideas quickly, and quickly roll out new ideas to more users.
+Comprehensive security: With a high level of security on-site, at data centers, and via encryption, organizations can often take advantage of more advanced security and protection they could provide if they hosted the cloud infrastructure in-house. Faster access to best-of-breed technology. Cloud providers compete by providing the latest technologies to their users, IaaS customers can take advantage of these technologies much earlier (and at far less cost) than they can implement them on-premises.
+Maintenance
+
+IaaS solutions offer a great deal of customization and thus require significant maintenance on your part. You'll be responsible for things like Operating System (OS) installation, patching, and upgrading. 
+
+IaaS Explained 
+
+
+2. What is Platform as a Service (PaaS) and when would a company likely purchase this cloud service type? 
+
+PaaS means the hardware and an application-software platform are provided and managed by an outside cloud service provider, but the user handles the apps running on top of the platform and the data the app relies on.
+
+Platform as a Service (PaaS) 
+
+Primarily for developers and programmers, PaaS gives users a shared cloud platform for application development and management (an important DevOps component) without having to build and maintain the infrastructure usually associated with the process.
+
+Examples of PaaS solutions include AWS Elastic Beanstalk, Google App Engine, Microsoft Windows Azure, and Red Hat OpenShift on IBM Cloud.
+
+Image showing a graphic highlighting Platform as a Service (PaaS)
+Benefits of PaaS
+
+The primary benefit of PaaS is that it allows customers to build, test, deploy run, update, and scale applications more quickly and cost-effectively than they could if they had to build out and manage their own on-premises platform.
+
+Other benefits include:
+
+Faster time to market: PaaS enables development teams to spin up development, testing, and production environments in minutes, rather than the weeks or months it could take in a traditional IT environment.
+Low- to no-risk testing and adoption of new technologies: PaaS platforms typically include access to a wide range of the latest resources up and down the application stack. This allows companies to test new operating systems, languages, and other tools without having to make substantial investments in them, or in the infrastructure required to run them.
+Simplified collaboration: As a cloud-based service, PaaS provides a shared software development environment, giving development and operations teams access to all the tools they need, from anywhere with an Internet connection.
+A more scalable approach: With PaaS, organizations can purchase additional capacity for building, testing, staging, and running applications whenever they need it.
+Less to manage - PaaS offloads infrastructure management, patches, updates, and other administrative tasks to the cloud service provider.
+Using PaaS for continuous delivery
+
+Continuous delivery is a software development practice that allows automated software delivery and frequent releases, with little or no manual intervention. Software must pass a set of validations and criteria on its way through the deployment pipeline to release. The main goal of a continuous delivery practice is to enable the ability to reliably, rapidly, and repeatedly push software updates and enhancements out to users at low risk and near zero downtime. 
+
+Necessary conditions
+
+Automated testing: Unit, integration, and system testing should be fully automated.
+Continuous integration: A development practice that integrates all developers’ versions into a single version. Each check-in is verified by an automated build to detect problems.
+Automated deployment: To facilitate automated testing and continuous integration, there must be a platform in place that allows automated deployment to establish the environment runtimes and services for builds and testing.
+Service-Oriented Architecture (SOA): Allows for individual component architecture and facilitates the SaaS model. Delivering software in a SOA fashion allows teams to focus on particular areas and provides the ability to make changes and provide fixes to these individual areas versus modifying a monolithic application.
+Change in culture: It is a change in mindset from human control and silos to an environment that allows automation and a delivery pipeline. Practices such as code branching must be adapted to fit into the continuous delivery model.
+Maintenance
+
+PaaS solutions give you full control over your installed applications, and so you will be responsible for maintaining those applications. You will need to maintain code functionality and compatibility with modern web browsers (e.g., clients), ensure the code remains complaint with security requirements (e.g., vulnerabilities, viruses, malware), address and resolve any operational or performance inefficiencies and software bugs, and develop and test any new capabilities and functions prior to release. 
+
+PaaS Explained 
+
+
+3. What is Software as a Service (SaaS) and when would a company likely purchase this cloud service type? 
+
+SaaS is a service that delivers a software application—which the cloud service provider manages—to its users. Typically, SaaS apps are web applications or mobile apps that users can access via a web browser.
+
+Software as a Service (SaaS) 
+
+Software updates, bug fixes, and other general software maintenance are taken care of for the user, and they connect to the cloud applications via a dashboard or API. SaaS also eliminates the need to have an app installed locally on each individual user’s computer, allowing greater methods of a group or team access to the software. 
+
+Image showing a graphic highlighting Software as a Service (SaaS)
+The vendor manages all upgrades and patches to the software, usually invisibly to customers. Typically, the vendor ensures a level of availability, performance, and security as part of a service level agreement (SLA). Customers can add more users and data storage on demand at an additional cost.
+
+Today, anyone who uses a or mobile phone almost certainly uses some form of SaaS. Email, social media, and cloud file storage solutions (such as Dropbox or Box) are examples of SaaS applications people use every day in their personal lives. Popular business or enterprise SaaS solutions include Salesforce (customer relationship management software), HubSpot (marketing software), Trello (workflow management), Slack (collaboration and messaging), and Canva (graphics). Many applications designed originally for the desktop (e.g., Adobe Creative Suite) are now available as SaaS (e.g., Adobe Creative Cloud).
+
+Benefits of SaaS
+
+The main benefit of SaaS is that it offloads all infrastructure and application management to the SaaS vendor. All the user has to do is create an account, pay the fee and start using the application. The vendor handles everything else, from maintaining the server hardware and software to managing user access and security, storing, and managing data, implementing upgrades and patches, and more.
+
+Other benefits of SaaS include:
+
+Minimal risk: Many SaaS products offer a free trial period, or low monthly fees that let customers try the software to see if it will meet their needs, with little or no financial risk.
+Anytime/anywhere productivity: Users can work with SaaS apps on any device with a browser and an internet connection. 
+Easy scalability: Adding users is as simple as registering and paying for new seats; customers can purchase more data storage for a nominal charge.
+Some SaaS vendors even enable customization of their products by providing a companion PaaS solution. One well-known example is Heroku, a PaaS solution for Salesforce.
+
+Software as a service
+
+SaaS enables you to consume software running on a cloud infrastructure through a pay-per-use, elastic capacity technical, and business delivery model. The main goals of a SaaS solutions are to accelerate the velocity of adoption of new solutions and to reduce costs for the operations team and provide self-service access to applications.
+
+Maintenance 
+
+SaaS solutions offer the least amount of customization and thus have the lightest maintenance burden. There should be very little you need to do to maintain SaaS, with the exception of keeping your own web browsers up to date.
+
+SaaS Explained 
+
+
+Saas vs. PaaS vs. IaaS: Management Ease vs. Complete Control 
+
+SaaS, Paas, IaaS are not mutually exclusive; most organizations use more than one, and many larger organizations today use all three, often in combination with traditional IT.
+
+Image showing a confused person who is about to ask questions.
+Obviously, the as-a-service solution a customer chooses depends first on the functionality the customer requires, and the expertise it has on staff. For example, an organization without the in-house IT expertise for configuring and operating remote servers isn't well matched to IaaS; an organization without a development team has no need for PaaS.
+
+But in some cases, any of the three 'as-a-service' models will offer a viable solution. In these cases, organizations typically compare the alternatives based on the management ease they offer, vs. the control they give up. For example, suppose a large organization wants to deliver a customer relationship management (CRM) application to its sales team. 
+
+It could:
+
+Choose a SaaS solution, offloading all day-to-day management to the third-party vendor, but also giving up all control over features and functionality, data storage, user access, and security to be managed by the cloud service provider.
+Choose a PaaS solution and build a custom CRM application. In this case, the company would offload the management of infrastructure and application development resources to the cloud service provider. The customer would retain complete control over application features, but it would also assume responsibility for managing the application and associated data.
+Build out backend IT infrastructure on the cloud using IaaS, and use it to build its own development platform and application. The organization's IT team would have complete control over operating systems and server configurations, but also bear the burden of managing and maintaining them, along with the development platform and applications that run on them.
+Chart comparing Traditional IT, IaaS, PaaS, and SaaS models to the degree of management. With Traditional IT being entirely managed by the organization and SaaS solutions being entirely managed by the cloud service provider.
+Why it matters? 
+There are a number of options that organizations can choose from when deciding to migrate some or all of their workloads to the cloud. Traditional IT infrastructure can be time-consuming and costly to maintain. Cloud Service Providers offer businesses the option to rent anything from software licenses (SaaS), development platforms for testing and deployment (PaaS), and even hardware such as servers & networks storage (IaaS). 
+
+Summary
+
+1
+
+1
+The chief advantage of IaaS, PaaS, SaaS, or any 'as a service' solution is economic; a customer can access and scale the IT capabilities it needs for a predictable cost, without the expense and overhead of purchasing and maintaining everything in its own data center.
+
+2
+
+2
+IaaS means a cloud service provider manages the infrastructure for you—the actual servers, network, virtualization, and data storage—through an internet connection. 
+
+3
+
+3
+PaaS means the hardware and an application-software platform are provided and managed by an outside cloud service provider, but the user handles the apps running on top of the platform and the data the app relies on. 
+
+4
+
+4
+SaaS is a service that delivers a software application—which the cloud service provider manages—to its users. 
+
+5
+
+5
+Outside of Traditional IT infrastructures, IaaS service types give organizations the greatest security and control over their systems; whereas organizations choosing SaaS solutions give up all or most control over day-to-day management to the cloud service provider.
+
+Next 
+
+In Summary & Resources, we'll review the key concepts and provide you with a few additional resources to help you learn more about the topics covered in this module. 
+
+Sources:
+[1] IBM Cloud Learn Hub. IaaS v. PaaS v. SaaS. September 2, 2021.
+[2] Red Hat. Types of Cloud Computing. March 15, 2018.
+[3] Vennam, Sai. Cloud Computing. August 18, 2020. ",https://keyskill-clms.comprehend.ibm.com/pluginfile.php/131656/mod_tincanlaunch/content/index.html?endpoint=https%3A%2F%2Fcars-us.comprehend.ibm.com%2Fdata%2FxAPI%2F&auth=Basic%20YTVkZjAwN2I5M2RiN2QwOTJiYjk5NGI2NThkMzc4Njc1MjJhMzNmODo4NTQ0ZDE3OGE3MTJmOGYwMjc3YTcxNWQzMTM4OGZmY2RjYmYzMTU0&actor=%7B%22objectType%22%3A%22Agent%22%2C%22name%22%3A%22Olivia%20Fossali%22%2C%22mbox%22%3A%22mailto%3Aolivia.fossali.22%40ucl.ac.uk%22%7D&registration=a25d90fd-ba18-48bc-854f-0a826ca3519a&activity_id=http%3A%2F%2FRH-FND-2021-R0#/lessons/z9uT0i1TBE22mlnhb2RJBV5Z6BUpi0oi,
+IBM Automation,IBM Robotic Process Automation - Basic II,9,Database,9,9 - Database - connectors,video,,https://learn.ibm.com/mod/video/view.php?id=152680,
+IBM Cloud,Journey to Cloud: Envisioning your Solution,2,course_overview,0,Release Notes,text,"This section provides an exhaustive description of all the changes to the educational content and structure of this course. 
+
+The documented history of changes started on January 26th, 2022. The last documented change was on the 26th of January 2022.
+
+
+Note: The history of changes appears in chronological order, where the latest changes will appear first and reflect the differences between the previous release of the course.",https://keyskill-clms.comprehend.ibm.com/pluginfile.php/131656/mod_tincanlaunch/content/index.html?endpoint=https%3A%2F%2Fcars-us.comprehend.ibm.com%2Fdata%2FxAPI%2F&auth=Basic%20YTVkZjAwN2I5M2RiN2QwOTJiYjk5NGI2NThkMzc4Njc1MjJhMzNmODo4NTQ0ZDE3OGE3MTJmOGYwMjc3YTcxNWQzMTM4OGZmY2RjYmYzMTU0&actor=%7B%22objectType%22%3A%22Agent%22%2C%22name%22%3A%22Olivia%20Fossali%22%2C%22mbox%22%3A%22mailto%3Aolivia.fossali.22%40ucl.ac.uk%22%7D&registration=a25d90fd-ba18-48bc-854f-0a826ca3519a&activity_id=http%3A%2F%2FRH-FND-2021-R0#/lessons/YZqu2hdE3RO_nWHE221Z9a57JOPm26xd,
+IBM Engineering,Quick Start Sessions,4,Quick Starts: IBM Engineering Insights for Traceability and Impact Analysis,4,What is IBM Engineering Insights for Traceability and Impact Analysis?,text,"In any large organization, the engineering environment can be highly fragmented. Many tools are in use, each with its own user interface, database or file system repository and workflow. And yet for a robust engineering environment these tools must be connected.
+
+Traceability between artifacts is critical in complex engineering projects – especially those which have to consider standards such as DO178B/C, ISO 26262, Automotive SPICE and so on. Traceability is one of the cornerstones of change impact analysis (and if you can be sure of one thing – it is that change is inevitable in a project). This kind of traceability has historically been done using point-to-point, bespoke tool integrations – which are brittle and prone to breaking when one of the tools changes versions. Alternatively, the traceability may have been maintained separately in other documents such as spreadsheets – a cumbersome, time-and-labor-intensive and potentially error-prone process, or possibly using an ‘import all the data into a single tool’ approach (which simply doesn't scale).
+
+The advent of Open Services for Lifecycle Collaboration (OSLC) solved this problem by allowing the data to stay where it belongs – in the tools that best know how to author and manage it, whilst allowing that data to be linked to related data in other tools using standard http-based protocols. So, requirements, for example stay in the requirements management tool, but can be connected to design elements in a design tool.
+Whilst OSLC allows the creation of these links – it does not address how to view and analyze them – at least not in a holistic way. When a requirement changes – how quickly can you assess the impact of that change? The designs, the test cases, the physical parts that all might be modified or replaced? These kinds of analyses can take days, even weeks to perform and are costly and error prone.
+
+There are two technologies in IBM Engineering Lifecycle Optimization, part of the IBM Engineering Lifecycle Management (ELM) platform that can help. Lifecycle Query Engine (LQE) indexes all the linked lifecycle data – and keeps that index up to date. Any tool that conforms to the OSLC Tracked Resource Set (TRS) specification can expose its data for LQE to consume – so it is not limited to the tools on the ELM platform.
+In the lab, you get to create traceability and impact analysis view using ENI. The estimated time to complete the lab is 2 hours.
+
+Skip Navigation
+Contact
+Support
+Privacy
+Terms of Use
+Accessibility",https://learn.ibm.com/mod/page/view.php?id=165993,
+IBM Security,Getting Started with Threat Intelligence and Huntin,15,Module 3 - Threat Map Worldwide View with IBM X-force Exchange ,3,About this Module,text,"
+Module 3
+Detecting Patterns of Fraud with Data Analytics
+
+Introduction
+
+Over the course of this Module, we will dig deeper into cybercrimes, specifically WannaCry. Using interactive charts and free-to-use programs we will visualize all of the data collected from WannaCry around the world. We will then take a look at how we can keep tabs on security incidents happening around the world right now. 
+
+This page covers the following Module details:
+
+Duration
+Objectives
+Milestones
+Modality
+Completion Criteria
+Duration
+
+This Module can be completed on average in 30 minutes
+
+Objectives
+
+In this Module you will learn the following concepts:
+
+1
+
+1
+Use X-Force Exchange to review reports on dangerous cyber attacks
+
+2
+
+2
+Monitor global attacks in real-time
+
+Milestones
+
+This Module is comprised of the following milestones:
+
+
+Milestone 1: Analyzing Botnet Global Threat Reports
++
+
+Milestone 2: Visualizing the Cyber Threat Activity Map
++
+
+Summary
++
+
+Quiz
++
+Modality
+
+Simulation - This hands-on activity doesn't require access to an external site, special account, or software download, all the activities are performed within the course environment as a click-through simulation. 
+
+Completion Criteria 
+
+In order to complete this Module activity, you need to follow the instructions on every Milestone and perform the activities therein.",https://keyskill-clms.comprehend.ibm.com/pluginfile.php/139345/mod_tincanlaunch/content/index.html?endpoint=https%3A%2F%2Fcars-us.comprehend.ibm.com%2Fdata%2FxAPI%2F&auth=Basic%20YTVkZjAwN2I5M2RiN2QwOTJiYjk5NGI2NThkMzc4Njc1MjJhMzNmODo4NTQ0ZDE3OGE3MTJmOGYwMjc3YTcxNWQzMTM4OGZmY2RjYmYzMTU0&actor=%7B%22objectType%22%3A%22Agent%22%2C%22name%22%3A%22Olivia%20Fossali%22%2C%22mbox%22%3A%22mailto%3Aolivia.fossali.22%40ucl.ac.uk%22%7D&registration=8694b16e-0b4d-49e1-8137-c5fd429248bf&activity_id=http%3A%2F%2FSEC-FND-2022-R1%28NOI2%29#/lessons/SdIs8Ms5p62wruclQQ8VKFhfCWcPpVTG,
+Data Science,Getting Started with Enterprise Data Science,9,Module 1 - Data Science Landscape,1,Summary & Resources,text,"Module 1
+
+Reflecting on what we learned from this lecture and planning the work ahead
+
+Summary
+
+1
+
+1
+Data science studies the world through scientific analysis of digital data
+
+2
+
+2
+The explosion of unstructured data creates a digital representation of our world
+
+3
+
+3
+Industry and science can now explore together new solutions to challenges
+
+4
+
+4
+The three domains of data science are: technology, science, and data
+
+5
+
+5
+The critical roles involved in a data science project are: data scientists, data engineers, and data analysts
+
+Resources
+
+1. Featured Resources
+
+The following resources were used to develop the material included in this lecture:
+
+Screenshot of IBM white paper : Data science is a team sport
+IBM Whitepaper
+
+Data science is a team sport. Do you have the skills to be a team player?
+
+
+Whitepaper - Data Science is a Team Sport.pdf
+1.1 MB
+2. Additional Resources
+
+The following resources are complementary material to those provided in this lecture.
+
+IMPORTANT: You don't need to access the material included below to complete this course, but just in case you are eager to go beyond the boundaries of the content included in this course, below are some additional resources which you can pursue to learn more.
+
+The URLs included above are pointing to resources hosted outside our domain and beyond our control. Therefore that material is provided as-is and no support will be given if the links are removed from public access by the content owners.
+
+List of resources
+
+1) What is Data Science?
+
+https://www.ibm.com/cloud/learn/data-science-introduction
+
+2) IBM Garage Methodology - Assemble the team to support a data-driven project
+
+https://www.ibm.com/garage/method/practices/culture/assemble-team-for-data-driven-project/
+",https://keyskill-clms.comprehend.ibm.com/pluginfile.php/138177/mod_tincanlaunch/content/index.html?endpoint=https%3A%2F%2Fcars-us.comprehend.ibm.com%2Fdata%2FxAPI%2F&auth=Basic%20YTVkZjAwN2I5M2RiN2QwOTJiYjk5NGI2NThkMzc4Njc1MjJhMzNmODo4NTQ0ZDE3OGE3MTJmOGYwMjc3YTcxNWQzMTM4OGZmY2RjYmYzMTU0&actor=%7B%22objectType%22%3A%22Agent%22%2C%22name%22%3A%22Olivia%20Fossali%22%2C%22mbox%22%3A%22mailto%3Aolivia.fossali.22%40ucl.ac.uk%22%7D&registration=dc4ea551-2c11-4bc1-a756-625351b21c03&activity_id=http%3A%2F%2FDS-FND-2022-R1#/lessons/QW_FNDFk2nMT_plkDg_MV6PJ0AdTLlXO,
+Data Science,Getting Started with Enterprise Data Science,4,Module 1 - Data Science Landscape,1,Topic 1: The urgency of science,text,"
+Exploring the role that science plays in the data science methodology 
+
+Introduction
+
+In this topic, we'll explore how data scientists use the scientific method to frame their thinking and solve complex problems. 
+
+Throughout this topic, we will attempt to answer the following questions:
+
+How does the scientific method apply to the field of data science?
+1. How does the scientific method apply to the field of data science? 
+
+A pandemic is taking lives and livelihoods. Climate change threatens to drown cities and disrupt food supplies. Economic growth widens inequalities. These are some of the urgent problems society is wrestling with, where science, guided by our values, is critical to our progress.
+
+Humanity is facing great uncertainty.
+
+Rather than guessing at solutions—especially with so much at stake—we, as a society, need to implement scientific thinking at all scales—from our daily lives to corporate innovation to government policymaking.
+
+We as a society need to implement scientific thinking at all scales.
+
+While great progress has been made, there are great risks to our future. We must find new methods and solutions to the world’s most pressing challenges. The need to take a scientific approach to these problems is more urgent than ever.
+
+Slide contains a person in a train using a phone with a mask, and a scientist using a microscope
+Scientific thinking isn’t just for scientists
+
+Scientists may seem to occupy a rarefied world apart, with their PhDs and high-tech equipment, and stylish lab coats. But scientific thinking is within everyone's reach.
+
+Textbooks may change as we update our ideas about geology, medicine, and physics, but the method used to update them hasn't changed all that much.
+
+New discoveries nearly all rely on some version of the scientific method. Applying this method and the technological transformation we’re bringing to it will be key to the next breakthroughs.
+
+a board showing mathematics advanced formulas.
+What is the Scientific Method?
+The Scientific Method is the practice of science as a way of thinking about knowledge. 
+
+It means asking how we know things. 
+It means coming up with new ideas and making careful observations that can refute or support them so that we know even more. 
+It means poking at the world to see what happens. 
+It means describing your methods of inquiry in such a way that others can repeat them independently, and communicating outcomes in a way that other scientists can interpret and understand them; 
+and it means updating our knowledge when the unexpected happens.
+Using an example
+
+You might read about fertilizers and wonder what kind would help your vegetables grow the fastest.
+The more expensive of the two fertilizer brands will make your vegetables grow taller
+Use each fertilizer on half of your garden, then collect and analyze the data to see which plants grew taller.
+Trust in Science
+Thinking scientifically also means being aware of what others have already tried and discovered. Any given scientific paper might reference hundreds of others, which shows how science constantly builds on what came before.
+
+This reliance on and trust in scientific knowledge comes from science’s commitment to transparency in a way that allows any scientist to challenge any idea at any time. Decisions should be informed by data and evidence.
+
+A man looking into a microscope and a pair of hands wearing blue latex gloves holding a bio sample container.
+Science Can’t Be Contained
+
+When you imagine the domain of a scientist, you might think of the natural sciences—physics, chemistry, biology, ecology, geology, astronomy, and so on. 
+
+But the scientific method can help us to think about how discovery in the natural sciences can influence or be influenced by critical social decisions—involving psychology, politics, and business.
+To answer some of these questions
+
+Can we design molecules to pull carbon dioxide out of smog? 
+Do we have already-approved drugs that might help COVID-19 patients? 
+Where should we look to spot the next pandemic-causing bug?
+We need to better understand the world we live in
+
+The effect of natural sciences on the broader issues
+How policy and economic trends affect the natural sciences？
+How do societal decisions affect societal outcomes?
+
+
+
+And now, the data scientist who works with data begins to ask questions that start with why.
+
+Why did life move from the primordial oceans to land? Did the moon and the tides have something to do with it?
+
+Why is life based on carbon? After all, it is right next to silicon on the periodic table and has the same electron valance.
+
+Our sun is a G-type star. 4 billion years down and 4.5 billion years to go. It will turn into a white giant and then a red dwarf. So how long do we have on Earth?
+
+One of the key attributes of the scientist that works with data (Data Scientist) is an eternal curiosity factor. Always asking why. Data is a commodity, but without ways to process it, its value is questionable. Data science is a multidisciplinary field whose goal is to extract value from data in all its forms. Throughout this course, we will explore the field of science through data and its structure, as well as the high-level process that you can use to transform data into value. 
+
+Data science is a process. That's not to say it's mechanical and void of creativity. But, when you dig into the stages of processing data, from munging data sources and data cleansing to machine learning and eventually visualization, you see that unique steps are involved in transforming raw data into insight.
+
+So, what is the relationship between Science and Data Science?
+
+You may wonder, what does science has to do with data? Well, the starting point of science is collecting data. We collect data on animals, plans; we collect data on minerals, elements, and even stars. Once we have ample data, we classify them:
+
+Data collected from animals and plans go into phylogenetic trees
+Those gathered from minerals go into crystal groups
+Data collected from elements finds its way into the periodic table
+Data collected from  stars are plotted in the Hertzsprung-Russel diagram
+What is Data Science?
+It is the understanding the world through the scientific analysis of the digital representation of data.
+
+Bringing it all together
+
+In the video below your instructor will guide you through these concepts:
+
+
+Summary
+
+1
+
+1
+New discoveries rely upon the scientific method: asking a question, generating a hypothesis, testing the hypothesis, and publishing the results. 
+
+2
+
+2
+One the most essential attributes of a data scientist is having an intense curiosity about things. 
+
+3
+
+3
+Data science is a process. When you dig into the stages of processing data, from munging data sources and data cleansing to machine learning and eventually visualization, you see that unique steps are evolved in transforming raw data into insight. 
+
+Next 
+
+What is data science? ",https://keyskill-clms.comprehend.ibm.com/pluginfile.php/138177/mod_tincanlaunch/content/index.html?endpoint=https%3A%2F%2Fcars-us.comprehend.ibm.com%2Fdata%2FxAPI%2F&auth=Basic%20YTVkZjAwN2I5M2RiN2QwOTJiYjk5NGI2NThkMzc4Njc1MjJhMzNmODo4NTQ0ZDE3OGE3MTJmOGYwMjc3YTcxNWQzMTM4OGZmY2RjYmYzMTU0&actor=%7B%22objectType%22%3A%22Agent%22%2C%22name%22%3A%22Olivia%20Fossali%22%2C%22mbox%22%3A%22mailto%3Aolivia.fossali.22%40ucl.ac.uk%22%7D&registration=dc4ea551-2c11-4bc1-a756-625351b21c03&activity_id=http%3A%2F%2FDS-FND-2022-R1#/lessons/xey-izsDf2RUf_LZkY7zWDqsBIH4ex9T,
+Data Science,Getting Started with Enterprise Data Science,26,Module 3 - Detecting Pattrns of Fraud wit Data Analytics,3,Summary,text,"Reflecting on what we learned from this module and planning the work ahead
+
+Summary
+
+1
+
+1
+From this Module, you have created an IBM Cloud Account, which provides you access to a wide range of IBM products. 
+
+2
+
+2
+Using IBM Cloud you have created your first Watson Studio project. 
+
+3
+
+3
+You have learned to upload data to Watson Studio Projects. 
+
+4
+
+4
+With Watson's Data Visualization, you are able to create graphs and images allowing users to quickly identify data patterns. ",https://keyskill-clms.comprehend.ibm.com/pluginfile.php/138177/mod_tincanlaunch/content/index.html?endpoint=https%3A%2F%2Fcars-us.comprehend.ibm.com%2Fdata%2FxAPI%2F&auth=Basic%20YTVkZjAwN2I5M2RiN2QwOTJiYjk5NGI2NThkMzc4Njc1MjJhMzNmODo4NTQ0ZDE3OGE3MTJmOGYwMjc3YTcxNWQzMTM4OGZmY2RjYmYzMTU0&actor=%7B%22objectType%22%3A%22Agent%22%2C%22name%22%3A%22Olivia%20Fossali%22%2C%22mbox%22%3A%22mailto%3Aolivia.fossali.22%40ucl.ac.uk%22%7D&registration=dc4ea551-2c11-4bc1-a756-625351b21c03&activity_id=http%3A%2F%2FDS-FND-2022-R1#/lessons/LCQL82hb2fXqxhm8JQCK3XnvgACHl-G9,
